@@ -120,6 +120,44 @@ Arztpraxen und Krankenhäuser.
 
 ### Bremen
 
+<details>
+Source: 
+https://www.gesetzblatt.bremen.de/fastmedia/832/2020_04_03_GBl_Nr_0019_signed.pdf
+ 
+#### Offen
+
+> (3) Abweichend von Absatz 1 und 2 werden folgende Einrichtungen nicht für den Publikumsverkehr geschlossen:
+
+1. Lebensmittelgeschäfte,
+2. Wochenmärkte nach § 67 Gewerbeordnung,
+3. Abhol- und Lieferdienste,
+4. Getränkemärkte,
+5. Apotheken, Sanitätshäuser, Drogerien,
+6. Tankstellen, Kioske, Zeitungsverkaufsstellen,
+7. Banken und Sparkassen
+8. Poststellen,
+9. Reinigungen, Waschsalons,
+10. Bau- und Gartenbaumärkte,  
+11. Tierbedarfshandel,
+12. der Großhandel.
+
+#### Geschlossen
+
+> (1) Folgende Einrichtungen dürfen nicht für den Publikumsverkehr geöffnet werden:
+
+1. Gaststättengewerbe aller Art; der Außer-Haus-Verkauf und die Auslieferung von Speisen und Getränken bleiben zulässig; der Verzehr an Ort und Stelle ist untersagt; Außenbestuhlung ist zu entfernen oder gegen eine Nutzung zu sichern,
+2. Bars, Teestuben, Clubs, Diskotheken Festhallen, Amüsierbetriebe und ähnliche Vergnügungsstätten,
+3. Saunen, Saunaclubs, Solarien, Fitnessstudios, öffentliche und private Sport-anlagen, Schwimm- und Spaßbäder; in besonders begründeten Einzelfällen kann der Betrieb auf Sportanlagen durch schriftliche Genehmigung der Orts-polizeibehörde zugelassen werden,
+4. Kinos, Theater, Opern, Konzerthäuser, Museen und für den Publikumsverkehr bestimmte Ausstellungsräumlichkeiten,
+5. Messen, Ausstellungen, Angebote von Freizeitaktivitäten (drinnen und draußen), Spezialmärkte,
+6. Entertainment-Center, Spielhallen, Spielbanken, Sportwettgeschäfte, Wett-büros und Wettvermittlungsstellen,
+7. Prostitutionsstätten (einschließlich der Prostitution in Privatwohnungen und Fahrzeugen), Bordelle, bordellartige Betriebe, Swinger-Clubs, Striptease-Lokale, Sex-Kinos, Multiplex-Kinos und Peep-Shows,
+8. Begegnungsstätten und -treffs (für ältere Menschen, Menschen mit Behinde-rung, Jugendliche, Heranwachsende, Mütter, Familien, Kinder etc.),Spiel-plätze (indoor und outdoor),
+9. Jugendherbergen.
+
+> (2) Alle weiteren, nicht an anderer Stelle in dieser Verordnung genannten Ver-kaufsstellen des Einzelhandels, **insbesondere Einkaufszentren** (mit Ausnahme der in Absatz 3 genannten Einrichtungen) dürfen nicht für den Publikumsverkehr geöffnet werden.
+</details>
+
 ### Hamburg
 
 <details>
