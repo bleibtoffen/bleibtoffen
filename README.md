@@ -267,6 +267,39 @@ Source: https://www.coronavirus.sachsen.de/download/Fassung-RV-SaechsCoronaSchVO
 
 ### Sachsen-Anhalt
 
+<details>
+Source: https://ms.sachsen-anhalt.de/themen/gesundheit/aktuell/coronavirus/fragen-und-antworten/
+
+#### Offen
+
+> Folgende Geschäfte sind weiter geöffnet:
+
+- Lebensmittelhandel,
+- Getränkemärkte, 
+- Banken und Sparkassen, 
+- Apotheken, 
+- Drogerien, 
+- Sanitätshäuser, 
+- Optiker, 
+- Hörgeräteakustiker, 
+- Post‐ und Paketstellen <small>(Filialen, Serviceagenturen und Annahmestellen der Deutschen Post AG und anderer Dienstleister wie Hermes, GLS, DPD, „Hermes“, „DPD“, „UPS“, „GLS“, „MZZ‐Briefdienst“, „biber post“, „Pin AG“ etc.)</small>, 
+- Tierbedarf, 
+- Bau‐ und Gartenmärkte, 
+- Großhandel, 
+- Tankstellen und Kfz‐Teileverkaufsstellen, 
+- Buchhandel, 
+- Zeitungs‐ und Zeitschriftenhandel, 
+- Wochenmärkte, 
+- der Betrieb von Lebensmittelhandel im Reisegewerbe, 
+- Reinigungen, 
+- Waschsalons, 
+- der Online‐Handel und Abhol‐ und Lieferdienste. 
+
+#### Geschlossen
+
+> Die Öffnung von Ladengeschäften, die nicht der Deckung des täglichen Bedarfes dienen, ist untersagt. Frisöre und Barbiere, Massagepraxen, Kosmetik‐, Nagel‐, Piercing‐ und Tattoostudios und ähnliche Betriebe sind zu schließen, weil in diesem Bereich eine körperliche Nähe unabdingbar ist und damit Infektionsketten nicht wirksam unterbunden werden könnten. Medizinisch notwendige Behandlungen bleiben aber weiter möglich.
+</details>
+
 ### Schleswig-Holstein
 
 <details>
