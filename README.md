@@ -93,6 +93,31 @@ Source: https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege/ausgangsbe
 
 ### Brandenburg
 
+<details>
+Source: https://kkm.brandenburg.de/sixcms/media.php/9/SARS-CoV-2-EindV2-1.pdf
+
+> (2) Die  in Absatz 1  angeordnete  Schließung  gilt  nicht  für 
+
+- den  Einzelhandel  für  Lebensmittel,
+- Abhol- und  Lieferdienste,
+- Wochenmärkte mit Beschränkung auf die für den Einzelhandel in dieser Verordnung zugelassenen Sortimente, 
+- Getränkemärkte,  
+- Apotheken,  
+- Sanitätshäuser,  
+- Drogerien, 
+- Tankstellen, 
+- Banken  und  Sparkassen,  
+- Poststellen, 
+- Reinigungen,
+- Waschsalons, 
+- Zeitungsverkauf, 
+- Bau-, Garten- und Tierbedarfshandel,
+- den Großhandel und (...) Dienstleister  im  Gesundheitsbereich  und  sonstige  helfende  Berufe,  insbesondere 
+Arztpraxen und Krankenhäuser.
+
+> Soweit Waren und Dienstleistungen aufgrund von Satz 1 angeboten werden dürfen, darf dies auch durch Kaufhäuser, Outlet-Center und in Einkaufszentren sowie auf Wochenmärkten erfolgen.
+</details>
+
 ### Bremen
 
 ### Hamburg
