@@ -6,6 +6,42 @@ This repository is used to organise the expansion of [caresteouvert](https://git
 
 ### Baden-Württemberg
 
+Source: https://corona.karlsruhe.de/content/downloads/200328_CoronaVO_Konsolidierte_Fassung.pdf
+
+#### Open
+
+- Supermärkte (`shop=supermarket`)
+- Bäckerreien (`shop=bakery`)
+- Metzgereien (`shop=butcher`)
+- Getränkehandlungen (`shop=beverages`)
+- Wochenmärkte  (`amenity=marketplace`)
+- Hofläden (`shop=farm`)
+- Apotheken (`amenity=pharmacy`)
+- Drogerien (`shop=chemist`)
+- Sanitätsbedarf (Hör- und Sehhilfen) :arrow_right: `shop=medical_supply` and `shop=hearing_aids` and `shop=optician`
+- Tankstellen (`amenity=fuel`)
+- Banken (`amenity=bank`)
+- Waschsalons (`shop=laundy`)
+- Buch- und Zeitungsverkauf (`shop=books` and `shop=newsagent`)
+- Baumärkte (`shop=hardware`) sowie Einzelhandel für Gartenbau (`shop=doityourself`)
+- Geschäfte für Tiernahrung (`shop=agrarian;agrarian=feed`)
+
+#### Closed
+
+- Museen (`tourism=museum`)
+- Theater (`amenity=theatre`)
+- Schulen (`amenity=school `)
+- Schwimm- und Hallenbäder (`leisure=swimming_pool`)
+- Saunen (`leisure=sauna`)
+- Spielplätze (`leisure=playground`)
+- Friseure (`shop=hairdresser`), Kosmetikstudios (`shop=beauty`), Tattoo-Studios (`shop=tattoo`), Massagesalons (`shop=massage`)
+- Hotels (für touristische Übernachtungen) :arrow_right: `amenity=hotel`
+- Campingplätze (``)
+- Wein- und Spirituosenhandlungen (`shop=alcohol`)
+- Restaurants (Liefer- und Abholservice aber erlaubt) :arrow_right: `amenity=restaurant` except `pickup=yes` and/or `delivery=yes`
+- Fahrradläden (`shop=bicycle`) (Werkstatt teilweise geöffnet)
+- Shisha-Bars (`amenity=bar`)
+
 ### Bayern
 
 ### Berlin
