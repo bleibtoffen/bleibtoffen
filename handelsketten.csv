@@ -1,3 +1,14 @@
 category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_url,opening_hours_url
 supermarket,ALDI,Q125054,open,,,https://www.aldi-nord.de/tools/rueckrufe/hinweis-filialoeffnung.html,https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten.html
+supermarket,EDEKA,Q701755,open,,,https://www.edeka.de/,https://www.edeka.de/marktsuche.jsp
+supermarket,LIDL,Q151954,open,,,https://www.lidl.de/,https://www.lidl.de/de/filialsuche/
+supermarket,Metro,Q169167,open,,,,https://www.metro.de/standorte/
+supermarket,Nahkauf,,open,,,https://www.rewe.de/auf-uns-ist-verlass/,https://www.nahkauf.de/maerkte
+supermarket,Netto,Q879858,open_adapted,,,https://netto.de/,https://netto.de/marktsuche/
+supermarket,Norma,Q450180,open,,,https://www.norma-online.de/de/angebote/,https://www.norma-online.de/de/filialfinder/
+supermarket,Penny,Q284688,open,,,https://www.penny.de/unternehmen/info-zum-corona-virus/,https://www.penny.de/marktsuche/
+supermarket,real,Q698473,open_adapted,,,https://www.real.de/markt/,https://www.real.de/markt/
 supermarket,REWE,Q16968817,open,,,https://www.rewe.de/auf-uns-ist-verlass,https://www.rewe.de/marktseite/
+chemist,dm,Q266572,open_adapted,,,https://www.dm.de/fuereinander/,https://www.dm.de/store/
+chemist,Müller,Q1958759,open,,,https://www.mueller.de/aktuelles/aktuelle-information/,https://www.mueller.de/meine-filiale/
+chemist,Rossmann,Q316004,open,,,https://www.rossmann.de/de/das-wir-zaehlt,https://www.rossmann.de/de/filialen/index.html
