@@ -15,6 +15,22 @@ doityourself,Hagebau,Q1568279,partial,"","",https://www.hagebau.de/marktfinder/,
 doityourself,Hornbach,Q685926,partial,"","",https://www.hornbach.de/mein-markt/aktuelle-infos-zu-ihrem-einkauf-und-zur-lage/,https://www.hornbach.de/mein-markt/
 doityourself,OBI,Q300518,partial,"","",https://www.obi.de/corona/markt-infos/,https://www.obi.de/corona/markt-infos/
 doityourself,toom Baumarkt,Q2442970,partial,"","",https://toom.de/aktionen/aktuelle-informationen/,https://toom.de/aktionen/aktuelle-informationen/
+fuel,Agip,"",open,"","","",https://stationfinder.agipstation.de/
+fuel,Aral,Q565734,open,"","",https://www.aral.de/de/global/retail/ueber-aral/wir-sind-fuer-sie-da.html,https://mein.aral.de/tankstellenfinder
+fuel,Avia,Q300147,open,"","","",https://www.avia.de/avia-tanken/tankstellen/tankstellen-suche.html
+fuel,bft,Q1009104,partial,"","","",https://www.bft.de/tankstellenfinder
+fuel,Classic,Q33127117,open,"","","",https://classic-oil.de/tankstellen/unsere-tankstellen/
+fuel,Esso,Q867662,open,"","",https://www.esso.de/coronavirus,https://www.esso.de/stations
+fuel,HEM,Q1563517,open,"","","",https://www.hem-tankstelle.de/produkteundservices/tankstellenfinder
+fuel,Hoyer,Q1606119,open,"","","",https://www.hoyer-tankstellen.de/tankstellen
+fuel,Jet,Q568940,open,"","",https://www.jet-tankstellen.de/,https://www.jet-tankstellen.de/kraftstoff/filialfinder/
+fuel,OMV,Q168238,open,"","",https://www.omv.de/de-de/tankstellen/fur-sie-da,https://www.omv.de/de-de/tankstellen/tankstellenfinder
+fuel,Q1,Q2121146,open,"","","",https://www.q1.eu/de/tankstellen/tankstellenfinder
+fuel,Raiffeisen,"",open,"","","",https://www.raiffeisentankstelle.de/standorte/suche/
+fuel,Shell,Q154950,open_adapted,"","",https://www.shell.de/covid19/shell-tankstellen-bleiben-weitgehend-geoeffnet.html,https://www.shell.de/autofahrer/shell-station-locator.html
+fuel,star,,open,"","",https://www.star.de/187/corona-virus-aktuelle-informationen/,https://www.star.de/service/tankstellenfinder
+fuel,Total,Q154037,open,"","",https://www.total.de/,https://www.total.de/tankstellen/tankstellenfinder
+fuel,Westfalen,Q1411209,open,"","",,https://westfalen.com/de/de/tankstellen-mobilitaet/
 garden_centre,Dehner,Q1183029,partial,"","",https://www.dehner.de/aktuelle-informationen/,https://www.dehner.de/market/
 garden_centre,Raiffeisen-Markt,"",open,"","","",https://www.raiffeisenmarkt.de/AjaxStoreLocatorDisplayView?catalogId=10051&langId=-3&storeId=10151
 garden_centre,ZG Raiffeisen,Q136135,open,"","",https://www.zg-raiffeisen.de/maerkte/news/zg-raiffeisen-niederlassungen-trotz-krise-geoeffnet,https://www.zg-raiffeisen.de/maerkte
