@@ -2,6 +2,13 @@ category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_ur
 car_repair,A.T.U,Q784721,closed,"","",https://www.atu.de/pages/corona.html,
 car_repair,Carglass,Q1035997,open,"","",https://www.carglass.de/corona,https://www.carglass.de/standorte
 car_repair,Pitstop,Q1310014,open,"","",https://www.pitstop.de/,""
+doityourself,Bauhaus,Q672043,partial,"","",https://www.bauhaus.info/aktuelle-lage,https://www.bauhaus.info/aktuelle-lage/fachcentren
+doityourself,BayWa,Q812055,partial,"","",https://www.baywa-baumarkt.de/cms/de/LP/aktuelle-situation-bei-baywa.htm,https://www.baywa-baumarkt.de/cms/de/Standorte.htm
+doityourself,Globus Baumarkt,Q457503,partial,"","",https://www.globus-baumarkt.de/aktuelle-infos/#maerkte,https://www.globus-baumarkt.de/
+doityourself,Hagebau,Q1568279,partial,"","",https://www.hagebau.de/marktfinder/,https://www.hagebau.de/marktfinder/
+doityourself,Hornbach,Q685926,partial,"","",https://www.hornbach.de/mein-markt/aktuelle-infos-zu-ihrem-einkauf-und-zur-lage/,https://www.hornbach.de/mein-markt/
+doityourself,OBI,Q300518,partial,"","",https://www.obi.de/corona/markt-infos/,https://www.obi.de/corona/markt-infos/
+doityourself,toom Baumarkt,Q2442970,partial,"","",https://toom.de/aktionen/aktuelle-informationen/,https://toom.de/aktionen/aktuelle-informationen/
 garden_centre,Dehner,Q1183029,partial,"","",https://www.dehner.de/aktuelle-informationen/,https://www.dehner.de/market/
 garden_centre,Raiffeisen-Markt,"",open,"","","",https://www.raiffeisenmarkt.de/AjaxStoreLocatorDisplayView?catalogId=10051&langId=-3&storeId=10151
 garden_centre,ZG Raiffeisen,Q136135,open,"","",https://www.zg-raiffeisen.de/maerkte/news/zg-raiffeisen-niederlassungen-trotz-krise-geoeffnet,https://www.zg-raiffeisen.de/maerkte
