@@ -373,3 +373,61 @@ Source: https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/po
 
 ### Thüringen
 
+<details>
+Source: https://corona.thueringen.de/
+
+#### Offen
+
+>  Diese Einrichtungen sind geöffnet
+
+- Lebensmittelhandel einschließlich Bäckereien und Fleischereien
+- Getränke-, Wochen- und Supermärkte sowie Hofläden
+- Banken und Sparkassen
+- Drogerien
+- Sanitätshäuser
+- Optiker, Hörgeräteakustiker,
+- Filialen der Deutschen Post AG und Paketstellen von Logistikunternehmen
+- Abhol- und Lieferdienste
+- Wäschereien und Reinigungen
+- Tankstellen und Kfz- und Fahrrad-Teileverkaufsstellen
+- Zeitungs- und Tabakwarengeschäfte
+- Tierbedarf, Bau- und Gartenmärkte, Gärtnereien und Floristikgeschäfte
+- Fernabsatzhandel und Großhandel
+- Außerhausverkauf von Gaststätten
+- Einzelverkaufsstände, an denen Lebensmittel zum Sofortverzehr angeboten werden, beispielsweise Eis- oder Bratwurststände
+- Einrichtungen des Gesundheitswesens wie Polikliniken, Arzt- und Zahnarztpraxen
+- Psychotherapien und Apotheken
+- Physiotherapeuten, Ergotherapeuten, Logopäden und Podologen sofern die medizinische Notwendigkeit der Behandlung durch ärztliches oder zahnärztliches Attest oder Verordnung nachgewiesen wird.
+
+#### Geschlossen
+
+> Diese Einrichtungen sind geschlossen
+
+- Kindergärten, Kindertagespflege
+- Schulen, Berufsschulen
+- Volkshochschulen, Musikschulen und sonstigen Bildungseinrichtungen einschließlich Bibliotheken
+- Gastronomiebetriebe ohne Außerhausverkauf
+- Bars, Cafés, einschließlich Eiscafés, Kneipen, Clubs, Diskotheken
+- Theater, Kinos, Konzerthäuser und Museen
+- Fitnessstudios, Schwimm-, Freizeit- und Erlebnisbäder, Thermen, Saunen und Solarien
+- Vereine, sonstige Sport- und Freizeiteinrichtungen und -angebote
+- Sportanlagen, Spiel- und Bolzplätze
+- Zoologische Gärten, Tierparks und ähnlichen Einrichtungen
+- Touristinformationen
+- Spielhallen und Spielbanken
+- Tanzlustbarkeiten und Vergnügungsstätten
+- Messen, Ausstellungen, Spezialmärkte, Wettannahmestellen
+- Prostitutionsstätten, -fahrzeuge und -veranstaltungen
+- Swinger-Clubs und ähnliche Angebote
+- Familienzentren, Familienferienstätten
+- Familienbildungsangebote freier Träger sowie Verbände und Gruppenangebote in Geburtshäusern
+- Mehrgenerationenhäuser
+- Seniorenclubs und Seniorenbüros
+- Jugendclubs und Jugendherbergen
+- Einzelhandelsgeschäfte, mit Ausnahme der für die Versorgung der Bevölkerung erforderlichen Läden
+- Hotels und Pensionen für touristische Zwecke
+- Fahr- und Flugschulen
+- Friseure und Barbiergeschäfte
+- Dienstleistungsbetriebe im Bereich der Körperpflege, insbesondere Tattoo-, Piercing-, Kosmetik-, Nagelstudios
+- Massage- und Wellnessstudios
+</details>
