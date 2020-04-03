@@ -97,6 +97,42 @@ Source: https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege/ausgangsbe
 
 ### Niedersachsen
 
+Source: https://www.niedersachsen.de/download/153804/Positivliste_Welche_Geschaefte_duerfen_weiterhin_oeffnen_bzw._welche_sozialen_Kontakte_sind_noch_zulaessig_Hinweise_des_Niedersaechsischen_Gesundheitsministeriums_vom_25.03.2020_.pdf
+
+#### Offen
+
+- Einzelhandel für Lebensmittel (`shop=convenience`), z.B. Supermärkte (`shop=supermarket`), Bäckereien (`shop=bakery`), Discounter (`shop=supermarket`), Teefachgeschäfte (`shop=tea`),
+- Sonderpostenmärkte/ „Mischmärkte“
+- Wochenmärkte (`amenity=marketplace`)
+- Abhol- (`pickup=true`) und Lieferdienste (`delivery=true`)
+- Online-Handel: Buchläden (`shop=books`) o.ä.
+- Restaurationsbetriebe mit einem Außer-Haus-Verkauf (`pickup=true`)
+- Getränkemarkte (`shop=beverages`)
+- Einrichtungen/Leistungserbringer des Gesundheitswesens: Apotheken (`amenity=pharmacy`), Sanitätshäuser (`shop=medical_supply`), Optiker (`shop=opticien`), Hörgeräteakustiker (`shop=hearing_aids`), Physiotherpiepraxien, Psychotherapie, Logopädie, Podologie
+- Heilpraktiker/Chiropraktiker
+- Drogerien (`shop=chemist`)
+- Tankstellen (`amenity=fuel`)
+- Banken und Sparkassen (`amenity=bank`)
+- Poststellen (`amenity=post_office`): DHL, Hermes, GLS, DPD, UPS, etc. (inkl. Paketstationen)
+- Reinigungen (`shop=dry_cleaning`)
+- Waschsalons (`shop=laundry`)
+- Zeitungsverkauf: Kioske (`shop=newsagent`)
+- Baumärkte (`shop=doityourself`, `shop=hardware`): Spezialisierte Geschäfte z.B. Farbe- oder Bodenfachgeschäfte (Abgabe von Waren an nicht-gewerbliche Kunden ist untersagt.)
+- Gartenbaumärkte (`shop=garden_centre`): Blumenläden (`shop=florist`), Gärtnerei
+- Tierbedarfsmärkte (`shop=pet`, `shop=pet_food`, `shop=pet_supply`)
+- Großhandel
+- Geschäfte des Landhandels mit Dünger, Pflanzenschutz, Saatgut, landwirtschaftlichen Maschinen, Ersatzteile usw. (`shop=agrarian`)
+- KFZ - Werkstätten (`shop=car_repair`) und Ersatzteilhandel (`shop=car_parts`) und Landmaschinenreperatur und Landmaschinenersatzteile
+- Fahrradreparatur, Fahrradersatzteilhandel (`shop=bicycle`)
+- Autovermietungen (`amenity=car_rental`)
+- Taxigewerbe (`amenity=taxi`)
+- Verkauf von Fahrkarten für den ÖPNV
+- Lieferung und Montage von Waren
+- Campingbetriebe soweit nur für Dauercamper, teilweise ohne anderen Wohnsitz, beherbergt werden.
+- Betriebliche Tätigkeiten bei geschlossen Läden
+- KFZ-Schilderläden
+- Imbisse in Tankstellen (`amenity=fast_food`)
+
 ### Nordrhein-Westfalen
 
 (Source: https://www.land.nrw/sites/default/files/asset/document/2020-03-30_coronaschvo_idf_der_aendvo.pdf)
