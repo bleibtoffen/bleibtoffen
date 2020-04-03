@@ -331,6 +331,33 @@ Source: https://corona.rlp.de/fileadmin/rlp-stk/pdf-Dateien/Corona/Upload_3-4-20
 
 ### Saarland
 
+<details>
+Source: https://corona.saarland.de/DE/service/massnahmen/massnahmen_node.html#doc524e73a1-1b58-4d82-bb4c-89faeef03194bodyText5
+
+#### Geöffnet
+
+> (5) Von den Verboten der Absätze 3 und 4 ausgenommen sind
+
+1. Lebensmittelhandel, auch Getränke- und Wochenmärkte,
+2. Abhol- und Lieferdienste,
+3. Garten- und Baumärkte sowie Tierbedarfshandel,
+4. Banken,
+5. Apotheken, Drogeriemärkte und Sanitätshäuser,
+6. Optiker und Hörgeräteakustiker,
+7. Post und sonstige Annahmestellen des Versandhandels,
+8. Tankstellen,
+9. Reinigungen und Waschsalons,
+10. Zeitungskioske,
+11. Online-Handel.
+
+#### Geschlossen
+
+> (1) Untersagt ist der Betrieb eines Gaststättengewerbes (...) und der Betrieb sonstiger Gastronomiebetriebe jeder Art. **Ausgenommen sind die Abgabe und Lieferung von mitnahmefähigen Speisen.**
+> (2) Untersagt ist der Betrieb von Hotels, Beherbergungsbetrieben und Campingplätzen sowie die Zurverfügungstellung jeglicher Unterkünfte zu privaten touristischen Zwecken. Abweichend hiervon ist der Betrieb nur zu beruflich veranlassten erforderlichen Reisen oder bei Vorliegen unabweisbarer persönlicher Gründe der Reisenden zulässig.
+> (3) Der Betrieb von Einrichtungen, die nicht notwendigen Verrichtungen des täglichen Lebens dienen, ist verboten. Hierzu zählen insbesondere Sauna- und Badeanstalten, Kinos, Theater, Opern, Konzerthäuser, Museen und ähnliche Einrichtungen, Messen, Spezialmärkte, Wettbüros und Wettannahmestellen, Tagungs- und  Veranstaltungsräume, Clubs und Diskotheken, Shishabars, Spiehallen, Vereinsräume, Bordellbetriebe und andere Prostitutionsstätten, Swingerclubs, Sporthallen, Sport- und Spielplätze, Fitnessstudios, Bibliotheken, Wellnesszentren, Thermen, Tanzschulen, Zoos, Freizeit- und Tierparks, sonstige Vergnügungsstätten, Fort- und Weiterbildungsstätten, Volkshochschulen, Musikschulen, Reisebusreisen, sonstige öffentliche und private Bildungseinrichtungen im außerschulischen Bereich und Jugendhäuser und ähnliche Einrichtungen.
+> (4) Untersagt ist die Öffnung von Ladengeschäften des Einzelhandels jeder Art, soweit nicht Absatz 5 etwas anderes bestimmt.
+</details>
+
 ### Sachsen
 
 <details>
