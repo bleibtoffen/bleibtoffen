@@ -198,6 +198,31 @@ Source: https://www.niedersachsen.de/download/153804/Positivliste_Welche_Geschae
 
 ### Sachsen
 
+<details>
+Source: https://www.coronavirus.sachsen.de/download/Fassung-RV-SaechsCoronaSchVO_31032020.pdf
+
+* Versorgungswege  für  die  Gegenstände  des  täglichen  Bedarfs  (
+  * Einzelhandel für  Lebensmittel (`shop=convenience`, `shop=supermarket`), 
+  * der selbstproduzierenden und vermarktenden  Baumschulen  und  Gartenbaubetriebe,
+  * der Hofläden (`shop=farm`), 
+  * der Getränkemärkte (`shop=garden_centre`),
+  * Tierbedarfsmärkte (`shop=pet`, `shop=pet_food`, `shop=pet_supply`),
+  * Apotheken (`amenity=pharmacy`),
+  * Drogerien (`shop=chemist`),
+  * Sanitätshäuser (`shop=medical_supply`),
+  * Optiker (`shop=opticien`),
+  * Hörgeräteakustiker (`shop=hearing_aids`),
+  * Banken, Sparkassen (`amenity=bank`) sowie Geldautomaten (`amenity=atm`),
+  * Poststellen (`amenity=post_office`),
+  * Tankstellen (`amenity=fuel`),
+  * Kfz- (`shop=car_repair`) und Fahrradwerkstätten (`shop=bicycle`)
+  * Reinigungen (`shop=dry_cleaning`),
+  * Waschsalons (`shop=laundry`),
+  * des Zeitungsverkaufs (`shop=kiosk`, `shop=newsagent`) sowie 
+  * die Abgabe von Briefwahlunterlagen) und
+* den Großhandel,
+</details>
+
 ### Sachsen-Anhalt
 
 ### Schleswig-Holstein
