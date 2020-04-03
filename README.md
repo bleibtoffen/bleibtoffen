@@ -122,6 +122,66 @@ Arztpraxen und Krankenhäuser.
 
 ### Hamburg
 
+<details>
+Source: https://www.hamburg.de/verordnung/
+ 
+#### Offen
+
+> 3) Für den Publikumsverkehr dürfen die nachfolgenden Betriebe oder Einrichtungen einschließlich ihrer Verkaufsstellen geöffnet bleiben:
+
+- Einzelhandel für Lebensmittel,
+- Verkaufsstände auf Wochenmärkten, soweit sie Lebensmittel oder Waren des täglichen Bedarfs anbieten,
+- Abhol- und Lieferdienste,
+- Getränkemärkte,
+- Apotheken,
+- Sanitätshäuser, Handel für Berufskleidung,
+- Drogerien,
+- Tankstellen,
+- Banken und Sparkassen,
+- Poststellen,
+- Reinigungen,
+- Waschsalons,
+- Stellen des Zeitungs- und Zeitschriftenverkaufs,
+- Bau-, Gartenbaubedarfsmärkte,
+- Tierbedarfsmärkte, 
+- der Großhandel,
+- Reparaturbetriebe für Fahrzeuge einschließlich Fahrrädern,
+- Dienstleistungs- und Handwerksbetriebe, soweit dies nicht gesondert eingeschränkt ist.
+
+#### Geschlossen
+
+> (3) Folgende Einrichtungen oder Angebote dürfen nicht für den unmittelbaren Publikumsverkehr geöffnet oder dargebracht werden:
+
+- Theater (einschließlich Musiktheater),
+- Opernhäuser,
+- Filmtheater (Kinos),
+- Konzerthäuser und -veranstaltungsorte,
+- Museen,
+- Ausstellungshäuser,
+- Angebote in Stadtteilkulturzentren und Bürgerhäusern,
+- Angebote der offenen Kinder- und Jugendarbeit,
+- öffentliche Bibliotheken,
+- Planetarien,
+- Zoologische Gärten,
+- zoologische Ausstellungen in geschlossenen Räumen,
+- Tierparks, 
+- Freizeitparks,
+- Angebote von Freizeitaktivitäten (im Freien und in geschlossenen Räumen),
+- Angebote von Volkshochschulen,
+- Angebote von Sprach-, Integrations-, Berufssprach- und Erstorientierungskursträgern,
+- Angebote von Musikschulen,
+- Angebote in Literaturhäusern,
+- Angebote privater Bildungseinrichtungen (einschließlich Fahrschulen),
+- Tanzschulen,
+- Schwimmbäder, einschließlich sogenannter Spaßbäder,
+- Saunas und Dampfbäder,
+- Thermen,
+- Wellnesszentren,
+- Fitness- und Sportstudios,
+- Seniorentreffpunkte,
+- Mensen und Cafés des Studierendenwerks Hamburg sowie die Mensen an der Hochschule für Musik und Theater Hamburg und der Hochschule für Bildende Künste Hamburg.
+</details>
+
 ### Hessen
 
 <details>
