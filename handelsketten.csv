@@ -1,7 +1,17 @@
 category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_url,opening_hours_url
 supermarket,ALDI,Q125054,open,,,https://www.aldi-nord.de/tools/rueckrufe/hinweis-filialoeffnung.html,https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten.html
+supermarket,Alnatura,Q876811,open_adapted,,,https://www.alnatura.de/de-de/m%C3%A4rkte/gemeinsamfueralle,https://www.alnatura.de/de-de/m%C3%A4rkte/filialfinder
+supermarket,Basic,Q809994,open_adapted,,,https://basicbio.de/,https://basicbio.de/de-DE/Maerkte
+supermarekt,Bio Company,Q864179,open_adapted,,,https://www.biocompany.de/neuigkeiten/hinweise.html,https://www.biocompany.de/bio-company-markt-finden/
+supermarket,Combi,Q1113618,open,,,https://www.combi.de/,https://www.combi.de/UnsereMaerkte/Marktsuche
+supermarket,denn's Biomarkt,Q48883773,open_adapted,,,,https://www.denns-biomarkt.de/
 supermarket,EDEKA,Q701755,open,,,https://www.edeka.de/,https://www.edeka.de/marktsuche.jsp
+supermarket,Kaufland,Q685967,open,,,https://www.kaufland.de/,https://www.kaufland.de/service/filiale.html
+supermarket,Konsum Dresden,Q1618877,open_adapted,,,https://www.konsum.de/,https://www.konsum.de/konsum-frida/standorte-oeffnungszeiten/
+supermarket,Konsum Leipzig,Q1468147,open_adapted,,,https://www.konsum-leipzig.de/,https://www.konsum-leipzig.de/maerkte
 supermarket,LIDL,Q151954,open,,,https://www.lidl.de/,https://www.lidl.de/de/filialsuche/
+supermarket,Markant,Q57523365,open_adapted,,,,https://www.mein-markant.de/mein-markt/unsere-maerkte/
+supermarket,Marktkauf,Q1533254,open_adapted,,,,https://marktkauf.de/market-locator
 supermarket,Metro,Q169167,open,,,,https://www.metro.de/standorte/
 supermarket,Nahkauf,,open,,,https://www.rewe.de/auf-uns-ist-verlass/,https://www.nahkauf.de/maerkte
 supermarket,Netto,Q879858,open_adapted,,,https://netto.de/,https://netto.de/marktsuche/
@@ -9,8 +19,10 @@ supermarket,Norma,Q450180,open,,,https://www.norma-online.de/de/angebote/,https:
 supermarket,Penny,Q284688,open,,,https://www.penny.de/unternehmen/info-zum-corona-virus/,https://www.penny.de/marktsuche/
 supermarket,real,Q698473,open_adapted,,,https://www.real.de/markt/,https://www.real.de/markt/
 supermarket,REWE,Q16968817,open,,,https://www.rewe.de/auf-uns-ist-verlass,https://www.rewe.de/marktseite/
+supermarket,tegut,Q1547993,open_adapted,,,https://www.tegut.com/newsticker-corona,https://www.tegut.com/maerkte.html
+supermarket,Wasgau,Q2536857,open_adapted,,,,https://wasgau-ag.de/wasgau-frischemarkt/
 chemist,dm,Q266572,open_adapted,,,https://www.dm.de/fuereinander/,https://www.dm.de/store/
 chemist,Müller,Q1958759,open,,,https://www.mueller.de/aktuelles/aktuelle-information/,https://www.mueller.de/meine-filiale/
 chemist,Rossmann,Q316004,open,,,https://www.rossmann.de/de/das-wir-zaehlt,https://www.rossmann.de/de/filialen/index.html
-optician,Apollo Optik,Q618940,partial,"","",https://www.apollo.de/lp/corona-information,https://filialen.apollo.de/
-optician,Fielmann,Q457822,partial,"","",https://www.fielmann.de/,https://www.fielmann.de/niederlassungen/
+optician,Apollo Optik,Q618940,partial,,,https://www.apollo.de/lp/corona-information,https://filialen.apollo.de/
+optician,Fielmann,Q457822,partial,,,https://www.fielmann.de/,https://www.fielmann.de/niederlassungen/
