@@ -194,6 +194,23 @@ Source: https://www.niedersachsen.de/download/153804/Positivliste_Welche_Geschae
 
 ### Rheinland-Pfalz
 
+<details>
+Source: https://corona.rlp.de/fileadmin/rlp-stk/pdf-Dateien/Corona/Upload_3-4-2020_3._Corona-Bekaempfungsverordnung_RL_konsolidierte.pdf
+
+#### Offen
+
+> 2) Absatz 1 gilt nicht für
+
+1. Einzelhandelsbetriebe für Lebensmittel, Getränkemärkte, Drogerien,
+2. Verkaufsstände auf Wochenmärkten, deren Warenangebot den zulässigen Einzelhandelsbetrieben entspricht,
+3. Apotheken, Sanitätshäuser,
+4. Tankstellen,
+5. Banken und Sparkassen, Poststellen,
+6. Reinigungen, Waschsalons,
+7. Zeitungs- und Zeitschriftenverkauf,
+8. Bau-, Gartenbau- und Tierbedarfsmärkte,
+</details>
+
 ### Saarland
 
 ### Sachsen
