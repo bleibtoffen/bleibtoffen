@@ -1,4 +1,13 @@
 category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_url,opening_hours_url
+bakery,Back-Factory,Q21200483,closed,"","",https://www.back-factory.de/wir-sind-bald-wieder-da/wir-sind-bald-wieder-da.html,""
+bakery,BackWerk,Q798298,partial,"","",https://www.back-werk.de/,https://www.back-werk.de/standorte/
+bakery,Ditsch,Q911573,partial,"","","",https://www.ditsch.de/de/shops/
+bakery,Hofpfisterei,Q1623217,open,"","",https://www.hofpfisterei.de/,https://www.hofpfisterei.de/verkaufsstellen
+bakery,Junge,"",open,"","",https://www.jb.de/das-unternehmen-junge/das-ist-junge/gemeinsamstark/,""
+bakery,Kamps,Q1723381,partial,"","",https://kamps.de/standorte,https://kamps.de/standorte
+bakery,Le Crobag,Q1558025,partial,"","","",https://www.lecrobag.de/shops-de/standorte.html
+bakery,Schäfer's,Q1464562,open,"","","",https://www.schaefers-brot.de/filialen/
+bakery,Steinecke,Q57516278,open,"","","",https://www.steinecke.info/filialen
 bank,Commerzbank,Q157617,partial,"","",https://www.commerzbank.de/portal/de/privatkunden/hilfe-kontakt/services/aktuelle-meldungen-corona.html,https://www.commerzbank.de/portal/media/a-20-themen/corona-virus/geoeffnete-Filalen.pdf
 bank,Deutsche Bank,Q66048,partial,"","",https://www.deutsche-bank.de/pk/Corona-update.html,https://www.deutsche-bank.de/pfb/content/pk-filialsuche.html
 bank,HypoVereinsbank,Q220189,partial,"","",https://www.hypovereinsbank.de/hvb/services/aktuelle-hinweise#parsys_contact_bar,https://www.hypovereinsbank.de/hvb/kontaktwege/filiale
