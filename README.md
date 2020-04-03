@@ -244,5 +244,74 @@ Source: https://www.coronavirus.sachsen.de/download/Fassung-RV-SaechsCoronaSchVO
 
 ### Schleswig-Holstein
 
+<details>
+Source: https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/positivliste_verordnung_corona.html
+
+#### Offen
+
+> Diese Geschäfte dürfen geöffnet bleiben:
+
+- Abhol- und Lieferdienste einschließlich solche des Online-Handels (Logistiker, Lieferunternehmen)
+- Retouren- und Lieferdienste, die von nicht zulässigen Verkaufsstellen des Einzelhandels angeboten werden (...)
+- Apotheken
+- Augenoptiker
+- Außer-Haus-Verkauf von Gaststätten nach vorheriger telefonischer oder elektronischer Bestellung (...)
+- Autovermietung, Car-Sharing
+- Bäckereien
+- Banken und Sparkassen
+- Baumärkte
+- Baustoffhandel
+- Beherbergungsbetriebe, Ferienwohnungen, sofern sie nicht für touristische Zwecke genutzt werden.
+- Bestatter
+- Brennstoffhandel
+- Denkmal-, Fassaden- und Gebäudereiniger
+- Drogerien
+- Ersatzteilverkauf in Werkstätten, Autoteile- und Zubehörverkauf
+- Fahrradwerkstätten
+- Freie Berufe
+- Gärtnereien
+- Gartenbaubedarf
+- Getränkemärkte
+- Goldankauf
+- Großhandel
+- Hofläden
+- Hörakustiker
+- Hundefrisöre, wenn sichergestellt ist, dass die Tierbesitzer sich nicht in den Räumlichkeiten aufhalten
+- Kfz-Werkstätten
+- Kioske
+- Krematorien
+- Landhandel mit Dünger, Pflanzenschutz, Saatgut, landwirtschaftlichen Maschinen, Ersatzteilen usw.
+- Landmaschinenreparatur, Landmaschinenersatzteile
+- Lebensmitteleinzelhandel
+- Metzgereien
+- Mischbetriebe des Handwerks, die daneben auch verkaufen
+- Orthopädieschuhmacher
+- Orthopädietechniker
+- Personal Trainer, Ernährungsberater und ähnliche Dienstleister in Einzelberatung
+- Pfandleiher
+- Poststellen, Postagenturen und Paketstationen
+- Raiffeisenmärkte
+- Recyclinghöfe, Annahmestellen der Kreislaufwirtschaft
+- Reisebüros, wenn kein direkter Kundenkontakt besteht
+- Sanitätshäuser
+- Schädlingsbekämpfer
+- Schornsteinfegerbetriebe
+- Schuh- und Schlüsselreparatur
+- Servicestellen von Telekommunikationsunternehmen
+- Spezialisierte Baustoffhändler für Farben, Bodenflächen usw.
+- Spezialisierter Lebensmitteleinzelhandel (z.B. Süßwaren, Tee, Kaffee, Wein, Spirituosen)
+- Stördienste aller Art, insbesondere Schlüsseldienste
+- Tankstellen
+- Textilreinigung
+- Tierbedarf
+- Verkauf von Jägereibedarf
+- Verkehrsdienstleistungen aller Art einschließlich Taxi
+- Warenlieferung und Montage
+- Waschsalons
+- Wochenmärkte
+- Zahntechniker
+- Zeitungs- und Zeitschriftenverkauf
+</details>
+
 ### Thüringen
 
