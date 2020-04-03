@@ -1,4 +1,8 @@
 category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_url,opening_hours_url
+bank,Commerzbank,Q157617,partial,"","",https://www.commerzbank.de/portal/de/privatkunden/hilfe-kontakt/services/aktuelle-meldungen-corona.html,https://www.commerzbank.de/portal/media/a-20-themen/corona-virus/geoeffnete-Filalen.pdf
+bank,Deutsche Bank,Q66048,partial,"","",https://www.deutsche-bank.de/pk/Corona-update.html,https://www.deutsche-bank.de/pfb/content/pk-filialsuche.html
+bank,HypoVereinsbank,Q220189,partial,"","",https://www.hypovereinsbank.de/hvb/services/aktuelle-hinweise#parsys_contact_bar,https://www.hypovereinsbank.de/hvb/kontaktwege/filiale
+bank,Santander,Q875292,partial,"","",https://www.santander.de/privatkunden/service-kontakt/information/corona/,https://www.santander.de/standortsuche
 car_repair,A.T.U,Q784721,closed,"","",https://www.atu.de/pages/corona.html,
 car_repair,Carglass,Q1035997,open,"","",https://www.carglass.de/corona,https://www.carglass.de/standorte
 car_repair,Pitstop,Q1310014,open,"","",https://www.pitstop.de/,""
