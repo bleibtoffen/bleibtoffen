@@ -12,7 +12,7 @@ Source: https://corona.karlsruhe.de/content/downloads/200328_CoronaVO_Konsolidie
 #### Open
 
 - Supermärkte (`shop=supermarket`)
-- Bäckerreien (`shop=bakery`)
+- Bäckereien (`shop=bakery`)
 - Metzgereien (`shop=butcher`)
 - Getränkehandlungen (`shop=beverages`)
 - Wochenmärkte  (`amenity=marketplace`)
