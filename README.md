@@ -99,6 +99,38 @@ Source: https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege/ausgangsbe
 
 ### Hessen
 
+<details>
+Source: https://www.hessen.de/sites/default/files/media/lesefassung4.coronavo.pdf
+
+#### Offen
+
+> (7) Die Beschränkungen nach Abs. 1 gelten nicht für
+
+1. den Lebensmitteleinzelhandel (`shop=convenience`, `shop=supermarket`),
+2. den Futtermittelhandel (`shop=pet`, `shop=pet_food`, `shop=pet_supply`),
+3. die Wochenmärkte (`amenity=marketplace`),
+4. den Direktverkauf vom Lebensmittelerzeuger (`?`),
+5. die Reformhäuser (`shop=convenience`),
+6. die Feinkostgeschäfte (`shop=deli`),
+7. die Geschäfte des Lebensmittelhandwerks (`shop=bakery` etc.),
+8. die Getränkemärkte (`shop=beverages`),
+9. die Banken und Sparkassen (`amenity=bank`),
+10. die Abhol- (`pickup=yes`) und Lieferdienste (`delivery=yes`),
+11. die Apotheken (`amenity=pharmacy`),
+12. die Drogerien (`shop=chemist`),
+13. die Sanitätshäuser (`shop=medical_supply`), Optiker (`shop=opticien`), Hörgeräteakustiker (`shop=hearing_aids`),
+14. die Poststellen (`shop=post_office`),
+15. die Waschsalons (`shop=laundry`),
+16. die Tankstellen (`shop=fuel`) und Tankstellenshops,
+17. die Reinigungen (`shop=dry_cleaning`),
+18. die Kioske (`shop=kiosk`), Tabak- (`shop=tobacco`) und E-Zigarettenläden, den Zeitungsverkauf (`shop=newsagent`),
+19. die Blumenläden (`shop=florist`),
+20. die Tierbedarfsmärkte (`shop=pet`, `shop=pet_food`, `shop=pet_supply`),
+21. die Bau- (`shop=hardware`, `shop=doityouself`) und Gartenbaumärkte (`shop=garden_centre`);
+
+> entscheidend  ist  der  Schwerpunkt  im  Sortiment. Die  Beschränkungen  nach  Abs.  1 gelten auch nicht für den Großhandel und den Online-Handel
+</details>
+
 ### Mecklenburg-Vorpommern
 
 ### Niedersachsen
