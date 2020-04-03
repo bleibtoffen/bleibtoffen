@@ -2,6 +2,12 @@ category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_ur
 car_repair,A.T.U,Q784721,closed,"","",https://www.atu.de/pages/corona.html,
 car_repair,Carglass,Q1035997,open,"","",https://www.carglass.de/corona,https://www.carglass.de/standorte
 car_repair,Pitstop,Q1310014,open,"","",https://www.pitstop.de/,""
+car_rental,Avis,Q791136,partial,"","",https://www.avis.de/avis-coronavirus-advice,https://www.avis.de/avis-coronavirus-advice
+car_rental,Buchbinder,"",partial,"","",https://www.buchbinder.de/de/coronavirus/,https://www.buchbinder.de/de/stationen/
+car_rental,Enterprise,Q17085454,partial,"","",https://www.enterprise.de/de/hilfe/notifications/advisory.html,https://www.enterprise.de/de/autovermietung/standorte/deutschland.html
+car_rental,Europcar,Q1376256,partial,"","",https://www.europcar.de/wichtige-informationen,https://www.europcar.de/standorte
+car_rental,Hertz,Q1543874,partial,"","",https://www.hertz.de/rentacar/misc/index.jsp?targetPage=coronavirus_travel_safety_tips.xml,https://www.hertz.de/rentacar/location
+car_rental,Sixt,Q705664,partial,"","",https://www.sixt.de/magazine/news/aktuelle-informationen-zum-coronavirus-covid-19/,https://www.sixt.de/mietwagen/
 doityourself,Bauhaus,Q672043,partial,"","",https://www.bauhaus.info/aktuelle-lage,https://www.bauhaus.info/aktuelle-lage/fachcentren
 doityourself,BayWa,Q812055,partial,"","",https://www.baywa-baumarkt.de/cms/de/LP/aktuelle-situation-bei-baywa.htm,https://www.baywa-baumarkt.de/cms/de/Standorte.htm
 doityourself,Globus Baumarkt,Q457503,partial,"","",https://www.globus-baumarkt.de/aktuelle-infos/#maerkte,https://www.globus-baumarkt.de/
