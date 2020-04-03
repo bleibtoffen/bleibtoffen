@@ -1,4 +1,7 @@
 category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_url,opening_hours_url
+car_repair,A.T.U,Q784721,closed,"","",https://www.atu.de/pages/corona.html,
+car_repair,Carglass,Q1035997,open,"","",https://www.carglass.de/corona,https://www.carglass.de/standorte
+car_repair,Pitstop,Q1310014,open,"","",https://www.pitstop.de/,""
 supermarket,ALDI,Q125054,open,,,https://www.aldi-nord.de/tools/rueckrufe/hinweis-filialoeffnung.html,https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten.html
 supermarket,Alnatura,Q876811,open_adapted,,,https://www.alnatura.de/de-de/m%C3%A4rkte/gemeinsamfueralle,https://www.alnatura.de/de-de/m%C3%A4rkte/filialfinder
 supermarket,Basic,Q809994,open_adapted,,,https://basicbio.de/,https://basicbio.de/de-DE/Maerkte
