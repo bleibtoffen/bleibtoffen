@@ -218,6 +218,39 @@ Source: https://www.hessen.de/sites/default/files/media/lesefassung4.coronavo.pd
 
 ### Mecklenburg-Vorpommern
 
+<details>
+Source: https://www.regierung-mv.de/service/Corona-FAQs/
+
+#### Offen
+
+> Ein Verkauf mittels Lieferdiensten oder Abholung bleibt gestattet.
+> Nicht betroffen von den Schließungen sind:
+
+* Einzelhandelsbetriebe für Lebensmittel,
+* Wochenmärkte, Abhol- und Lieferdienste, 
+* Getränkemärkte, 
+* Apotheken, 
+* Sanitätshäuser, 
+* Drogerien, 
+* Tankstellen,
+* Banken und Sparkassen, 
+* Poststellen, 
+* Zeitungsverkauf,
+* Tierbedarfsmärkte und 
+* Blumenläden.
+
+> Der Großhandel ist nicht von der Schließung betroffen.
+
+#### Geschlossen
+
+> Sämtliche Verkaufsstellen des Einzelhandels sind seit dem 18. März 2020, 06:00 Uhr, geschlossen.
+
+* Bau- und Gartenbaumärkte sind seit dem 23.03.2020, 20:00 Uhr, geschlossen.
+
+> Bars, Clubs, Diskotheken, Kneipen und ähnliche Betriebe werden für den Publikumsverkehr geschlossen.
+> Gleiches gilt für Theater, Opern, Konzerthäuser, Museen und ähnliche Einrichtungen, Messen, Ausstellungen, Kinos, Freizeit- und Tierparks und Anbieter von Freizeitaktivitäten (drinnen und draußen), Spielplätze (innen und außen), Spezialmärkte, Spielhallen, Spielbanken, Wettannahmestellen und ähnliche Einrichtungen, Prostitutionsgewerbe, Bordelle und ähnliche Einrichtungen, den Sportbetrieb auf und in allen öffentlichen und privaten Sportanlagen, Schwimm- und Spaßbäder, Fitnessstudios und ähnliche Einrichtungen.
+</details>
+
 ### Niedersachsen
 
 <details>
