@@ -6,6 +6,7 @@ This repository is used to organise the expansion of [caresteouvert](https://git
 
 ### Baden-Württemberg
 
+<details>
 Source: https://corona.karlsruhe.de/content/downloads/200328_CoronaVO_Konsolidierte_Fassung.pdf
 
 #### Open
@@ -41,9 +42,11 @@ Source: https://corona.karlsruhe.de/content/downloads/200328_CoronaVO_Konsolidie
 - Restaurants (Liefer- und Abholservice aber erlaubt) :arrow_right: `amenity=restaurant` except `pickup=yes` and/or `delivery=yes`
 - Fahrradläden (`shop=bicycle`) (Werkstatt teilweise geöffnet)
 - Shisha-Bars (`amenity=bar`)
+</details>
 
 ### Bayern
 
+<details>
 Sources:
 
 - https://www.stmwi.bayern.de/coronavirus/
@@ -59,9 +62,11 @@ Sources:
 #### Geschlossen
 
 > Alle Freizeiteinrichtungen (u. a. Sauna- und Badeanstalten, Kinos, Veranstaltungs- und Tagungsräume, Clubs, Bars, Diskotheken, Spielhallen, Theater, Vereinsräume, Bordellbetriebe, Museen, Stadtführungen, Sporthallen, Sport- und Spielplätze, Fitnessstudios, Bibliotheken, Wellnesszentren, Thermen, Tanzschulen, Tierparks, Vergnügungsstätten, Fort- und Weiterbildungsstätten, Volkshochschulen, Musikschulen, Jugendhäuser) müssen geschlossen bleiben. 
+</details>
 
 ### Berlin
 
+<details>
 Source: https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege/ausgangsbeschraenkung-kontaktverbot-berlin-was-ist-erlaubt.html
 
 #### Open
@@ -84,6 +89,7 @@ Source: https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege/ausgangsbe
 - Shisha-Bars (`amenity=bar`)
 - Hotels (für touristische Übernachtungen) :arrow_right: `amenity=hotel`
 - Friseure (`shop=hairdresser`), Kosmetikstudios (`shop=beauty`), Tattoo-Studios (`shop=tattoo`), Massagesalons (`shop=massage`)
+</details>
 
 ### Brandenburg
 
@@ -97,6 +103,7 @@ Source: https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege/ausgangsbe
 
 ### Niedersachsen
 
+<details>
 Source: https://www.niedersachsen.de/download/153804/Positivliste_Welche_Geschaefte_duerfen_weiterhin_oeffnen_bzw._welche_sozialen_Kontakte_sind_noch_zulaessig_Hinweise_des_Niedersaechsischen_Gesundheitsministeriums_vom_25.03.2020_.pdf
 
 #### Offen
@@ -132,9 +139,11 @@ Source: https://www.niedersachsen.de/download/153804/Positivliste_Welche_Geschae
 - Betriebliche Tätigkeiten bei geschlossen Läden
 - KFZ-Schilderläden
 - Imbisse in Tankstellen (`amenity=fast_food`)
+</details>
 
 ### Nordrhein-Westfalen
 
+<details>
 (Source: https://www.land.nrw/sites/default/files/asset/document/2020-03-30_coronaschvo_idf_der_aendvo.pdf)
 
 #### Open
@@ -149,6 +158,7 @@ Source: https://www.niedersachsen.de/download/153804/Positivliste_Welche_Geschae
 5. Kiosken und Zeitungsverkaufsstellen, (`shop=newsagent`)
 6. Tierbedarfsmärkten, (`shop=agrarian;agrarian=feed`)
 7. Einrichtungen des Großhandels. (`shop=supermarket`)
+</details>
 
 ### Rheinland-Pfalz
 
