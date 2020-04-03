@@ -2,6 +2,9 @@ category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_ur
 car_repair,A.T.U,Q784721,closed,"","",https://www.atu.de/pages/corona.html,
 car_repair,Carglass,Q1035997,open,"","",https://www.carglass.de/corona,https://www.carglass.de/standorte
 car_repair,Pitstop,Q1310014,open,"","",https://www.pitstop.de/,""
+garden_centre,Dehner,Q1183029,partial,"","",https://www.dehner.de/aktuelle-informationen/,https://www.dehner.de/market/
+garden_centre,Raiffeisen-Markt,"",open,"","","",https://www.raiffeisenmarkt.de/AjaxStoreLocatorDisplayView?catalogId=10051&langId=-3&storeId=10151
+garden_centre,ZG Raiffeisen,Q136135,open,"","",https://www.zg-raiffeisen.de/maerkte/news/zg-raiffeisen-niederlassungen-trotz-krise-geoeffnet,https://www.zg-raiffeisen.de/maerkte
 supermarket,ALDI,Q125054,open,,,https://www.aldi-nord.de/tools/rueckrufe/hinweis-filialoeffnung.html,https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten.html
 supermarket,Alnatura,Q876811,open_adapted,,,https://www.alnatura.de/de-de/m%C3%A4rkte/gemeinsamfueralle,https://www.alnatura.de/de-de/m%C3%A4rkte/filialfinder
 supermarket,Basic,Q809994,open_adapted,,,https://basicbio.de/,https://basicbio.de/de-DE/Maerkte
