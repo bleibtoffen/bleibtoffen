@@ -12,3 +12,5 @@ supermarket,REWE,Q16968817,open,,,https://www.rewe.de/auf-uns-ist-verlass,https:
 chemist,dm,Q266572,open_adapted,,,https://www.dm.de/fuereinander/,https://www.dm.de/store/
 chemist,Müller,Q1958759,open,,,https://www.mueller.de/aktuelles/aktuelle-information/,https://www.mueller.de/meine-filiale/
 chemist,Rossmann,Q316004,open,,,https://www.rossmann.de/de/das-wir-zaehlt,https://www.rossmann.de/de/filialen/index.html
+optician,Apollo Optik,Q618940,partial,"","",https://www.apollo.de/lp/corona-information,https://filialen.apollo.de/
+optician,Fielmann,Q457822,partial,"","",https://www.fielmann.de/,https://www.fielmann.de/niederlassungen/
