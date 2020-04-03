@@ -44,6 +44,22 @@ Source: https://corona.karlsruhe.de/content/downloads/200328_CoronaVO_Konsolidie
 
 ### Bayern
 
+Sources:
+
+- https://www.stmwi.bayern.de/coronavirus/
+- https://www.gesetze-bayern.de/Content/Document/BayIfSMV-2
+
+#### Offen
+
+> Ladengeschäfte des Einzelhandels jeder Art sind geschlossen. Ausgenommen davon sind der Lebensmittelhandel (`shop=supermarket`, `shop=convenience`), Getränkemärkte (`shop=beverages`), Banken (`amenity=bank`) und Geldautomaten (`amenity=atm`), Apotheken (`amenity=pharmacy`), Drogerien (`shop=chemist`), Sanitätshäuser (`shop=medical_supply`), Optiker (`shop=optician`), Hörgeräteakustiker (`shop=hearing_aids`), Verkauf von Presseartikeln (`shop=newsagent`), Filialen des Brief- und Versandhandels, Post (`amenity=post_office`), Tierbedarf (`shop=agrarian;agrarian=feed`), Tankstellen (`amenity=fuel`), Kfz-Werkstätten, Reinigungen (`shop=dry_cleaning`) und der Online-Handel (`delivery=true`). Sonstige Dienstleistungen, etwa Friseurbetriebe, sind nicht zulässig.
+
+> Sämtliche gastronomische Betriebe (`amenity=restaurant`) müssen geschlossen bleiben. Erlaubt bleiben Angebote „to go“ (`pickup=yes`) und die Lieferung (`delivery=yes`) mitnahmefähiger Speisen und Getränke.
+
+
+#### Geschlossen
+
+> Alle Freizeiteinrichtungen (u. a. Sauna- und Badeanstalten, Kinos, Veranstaltungs- und Tagungsräume, Clubs, Bars, Diskotheken, Spielhallen, Theater, Vereinsräume, Bordellbetriebe, Museen, Stadtführungen, Sporthallen, Sport- und Spielplätze, Fitnessstudios, Bibliotheken, Wellnesszentren, Thermen, Tanzschulen, Tierparks, Vergnügungsstätten, Fort- und Weiterbildungsstätten, Volkshochschulen, Musikschulen, Jugendhäuser) müssen geschlossen bleiben. 
+
 ### Berlin
 
 Source: https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege/ausgangsbeschraenkung-kontaktverbot-berlin-was-ist-erlaubt.html
