@@ -583,3 +583,40 @@ Source: https://corona.thueringen.de/
 - Dienstleistungsbetriebe im Bereich der Körperpflege, insbesondere Tattoo-, Piercing-, Kosmetik-, Nagelstudios
 - Massage- und Wellnessstudios
 </details>
+
+### Schweiz
+
+<details>
+Source: https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+
+#### Geschlossen
+
+>  Diese Einrichtungen sind geschlossen
+
+- Einkaufsläden und Märkte
+- Restaurationsbetriebe
+- Campingplätze
+- Barbetriebe sowie Diskotheken, Nachtclubs und Erotikbetriebe
+- Unterhaltungs- und Freizeitbetriebe, namentlich Museen, Bibliotheken, Kinos, Konzerthäuser, Theater, Casinos, Sportzentren, Fitnesszentren, Schwimmbäder, Wellnesszentren und Skigebiete, botanische und zoologische Gärten und Tierparks
+- Betriebe mit personenbezogenen Dienstleistungen mit Körperkontakt wie Coiffeure, Massagen, Tattoo-Studios und Kosmetik
+
+#### Offen
+
+> Das Verbot gilt nicht für folgende Einrichtungen und Veranstaltungen:
+
+- Lebensmittelläden und sonstige Läden, soweit sie Lebensmittel und Gegenstände für den täglichen Bedarf (z.B. Kioske, Tankstellenshops) anbieten
+- Imbiss-Betriebe (Take-away), Betriebskantinen, Lieferdienste für Mahlzeiten und Restaurationsbetriebe für Hotelgäste
+- Apotheken, Drogerien und Läden für medizinische Hilfsmittel (z.B. Brillen, Hörgeräte)
+- Poststellen und Postagenturen
+- Verkaufsstellen von Telekommunikationsanbietern
+- Banken
+- Tankstellen
+- Bahnhöfe und andere Einrichtungen des öffentlichen Verkehrs
+- Werkstätten für Transportmittel
+- Öffentliche Verwaltung (inkl. Anstalten des Freiheitsentzugs)
+- Soziale Einrichtungen (z.B. Anlaufstellen)
+- Beerdigungen im engen Familienkreis
+- Gesundheitseinrichtungen wie Spitäler, Kliniken und Arztpraxen sowie Praxen und Einrichtungen von Gesundheitsfachpersonen nach Bundesrecht und kantonalem Recht
+- Hotels und Beherbergungsbetriebe
+- Stellplätze für Wohnwagen und Wohnmobile in Dauermiete oder für Fahrende
+</details>

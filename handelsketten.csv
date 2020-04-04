@@ -119,3 +119,8 @@ DE,supermarket,real,Q698473,open_adapted,,,https://www.real.de/markt/,https://ww
 DE,supermarket,REWE,Q16968817,open,,,https://www.rewe.de/auf-uns-ist-verlass,https://www.rewe.de/marktseite/
 DE,supermarket,tegut,Q1547993,open_adapted,,,https://www.tegut.com/newsticker-corona,https://www.tegut.com/maerkte.html
 DE,supermarket,Wasgau,Q2536857,open_adapted,,,,https://wasgau-ag.de/wasgau-frischemarkt/
+CH,supermarket,Coop,Q432564,open,,,,https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten.html
+CH,supermarket,Migros,Q680727,open,,,,https://filialen.migros.ch/de
+CH,post,Post,Q614803,open,,Nur postalische Produkte und Dienstleistungen,https://www.post.ch/de/pages/corona/anpassungen-im-angebot,https://www.post.ch/de/pages/corona/anpassungen-im-angebot
+CH,bank,Raiffeisen,Q681189,partial,,Nur in dringenden fällen auf Voranmeldung,https://www.raiffeisen.ch/cham-steinhausen/de/privatkunden/5-tipps-in-zeiten-von-corona.html?cid=corona:privat-211c:raiffeisen:mc-int-header:corona,
+CH,bank,UBS,Q193199,partial,,,https://www.ubs.com/ch/de/help/covid-info.html,
