@@ -48,6 +48,13 @@ DE,bank,Sparkasse Ulm,Q18630954,partial,,,https://www.sparkasse-ulm.de/de/home/i
 DE,bank,Sparkasse Vorpommern,Q2307709,partial,,,https://www.spk-vorpommern.de/de/home/aktionen/corona.html,https://www.spk-vorpommern.de/de/home/aktionen/oeffnungszeiten_corona.html
 DE,bank,Sparkasse Westmünsterland,Q1567929,partial,,,https://www.sparkasse-westmuensterland.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-westmuensterland.de/de/home/toolbar/filialen.html
 DE,bank,Stadtsparkasse München,Q1438593,partial,,,https://www.sskm.de/de/home/aktionen/aktuelle-kundeninformation-coronavirus.html,https://www.sskm.de/de/home/service/filiale-finden.html
+DE,books,Hugendubel,Q1634142,closed,,,https://www.hugendubel.de/de/category/90701/filialen.html,
+DE,books,Mayersche,Q1462383,closed,,,https://twitter.com/Mayersche/status/1240541647462699008,
+DE,books,Osiander,Q1800686,partial,Mo-Sa 11:00-18:00,Nur Abholung.,https://www.osiander.de/service/abholung_versand.cfm,
+DE,books,Pustet,Q1461605,closed,,,https://www.pustet.de/shop/magazine/49701/filialen_oeffnungszeiten.html,
+DE,books,Rupprecht,,closed,,,https://www.rupprecht.de/shop/magazine/148419/aktuelle_situation.html,
+DE,books,Thalia,Q2408854,partial,Mo-Sa 10:00-13:00,Nur Abholung in ausgewählten Filialen.,https://www.thalia.de/shop/information/show/,
+DE,books,Weltbild,Q883522,closed,,,https://www.weltbild.de/service/filialen,
 DE,car_rental,Avis,Q791136,partial,,,https://www.avis.de/avis-coronavirus-advice,https://www.avis.de/avis-coronavirus-advice
 DE,car_rental,Buchbinder,,partial,,,https://www.buchbinder.de/de/coronavirus/,https://www.buchbinder.de/de/stationen/
 DE,car_rental,Enterprise,Q17085454,partial,,,https://www.enterprise.de/de/hilfe/notifications/advisory.html,https://www.enterprise.de/de/autovermietung/standorte/deutschland.html
