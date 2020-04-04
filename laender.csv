@@ -1,5 +1,5 @@
 tag,summary,BW,BY,BE,BB,HB,HH,HE,MV,NI,NW,RP,SL,SN,SH,ST,TH
-amenity=bank,all,Banken,Banken,Banken,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken,"Banken, Sparkassen",Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen
+amenity=bank,all,Banken und Sparkassen,Banken,Banken,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen,Banken,"Banken, Sparkassen",Banken und Sparkassen,Banken und Sparkassen,Banken und Sparkassen
 amenity=car_parts,few,?,?,?,?,?,?,?,?,KFZ-Ersatzteilhandel,?,?,?,?,Autoteile- und Zubehörverkauf,Kfz‐Teileverkaufsstellen,Kfz-Teileverkaufsstellen
 amenity=car_rental,few,?,?,?,?,?,?,?,?,Autovermietungen,?,?,?,?,Autovermietung,?,?
 amenity=car_repair,few,?,Kfz-Werkstätten,?,?,?,Reparaturbetriebe für Fahrzeuge,?,?,KFZ-Werkstätten,?,?,?,Kfz-Werkstätten,Kfz-Werkstätten,?,?
