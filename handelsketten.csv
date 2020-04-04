@@ -1,21 +1,21 @@
 category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_url,opening_hours_url
-bakery,Back-Factory,Q21200483,closed,"","",https://www.back-factory.de/wir-sind-bald-wieder-da/wir-sind-bald-wieder-da.html,""
-bakery,BackWerk,Q798298,partial,"","",https://www.back-werk.de/,https://www.back-werk.de/standorte/
-bakery,Ditsch,Q911573,partial,"","","",https://www.ditsch.de/de/shops/
-bakery,Hofpfisterei,Q1623217,open,"","",https://www.hofpfisterei.de/,https://www.hofpfisterei.de/verkaufsstellen
-bakery,Junge,"",open,"","",https://www.jb.de/das-unternehmen-junge/das-ist-junge/gemeinsamstark/,""
-bakery,Kamps,Q1723381,partial,"","",https://kamps.de/standorte,https://kamps.de/standorte
-bakery,Le Crobag,Q1558025,partial,"","","",https://www.lecrobag.de/shops-de/standorte.html
-bakery,Schäfer's,Q1464562,open,"","","",https://www.schaefers-brot.de/filialen/
-bakery,Steinecke,Q57516278,open,"","","",https://www.steinecke.info/filialen
+bakery,Back-Factory,Q21200483,closed,,,https://www.back-factory.de/wir-sind-bald-wieder-da/wir-sind-bald-wieder-da.html,
+bakery,BackWerk,Q798298,partial,,,https://www.back-werk.de/,https://www.back-werk.de/standorte/
+bakery,Ditsch,Q911573,partial,,,,https://www.ditsch.de/de/shops/
+bakery,Hofpfisterei,Q1623217,open,,,https://www.hofpfisterei.de/,https://www.hofpfisterei.de/verkaufsstellen
+bakery,Junge,,open,,,https://www.jb.de/das-unternehmen-junge/das-ist-junge/gemeinsamstark/,
+bakery,Kamps,Q1723381,partial,,,https://kamps.de/standorte,https://kamps.de/standorte
+bakery,Le Crobag,Q1558025,partial,,,,https://www.lecrobag.de/shops-de/standorte.html
+bakery,Schäfer's,Q1464562,open,,,,https://www.schaefers-brot.de/filialen/
+bakery,Steinecke,Q57516278,open,,,,https://www.steinecke.info/filialen
 bank,Berliner Sparkasse,Q821760,partial,,,https://www.berliner-sparkasse.de/de/home/ihre-sparkasse/hinweise-zum-corona-virus.html,https://www.berliner-sparkasse.de/de/home/ihre-sparkasse/hinweise-zum-corona-virus.html
 bank,Braunschweigische Landessparkasse,Q902027,partial,,,https://www.blsk.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.blsk.de/de/home/toolbar/filialen.html
-bank,Commerzbank,Q157617,partial,"","",https://www.commerzbank.de/portal/de/privatkunden/hilfe-kontakt/services/aktuelle-meldungen-corona.html,https://www.commerzbank.de/portal/media/a-20-themen/corona-virus/geoeffnete-Filalen.pdf
-bank,Deutsche Bank,Q66048,partial,"","",https://www.deutsche-bank.de/pk/Corona-update.html,https://www.deutsche-bank.de/pfb/content/pk-filialsuche.html
+bank,Commerzbank,Q157617,partial,,,https://www.commerzbank.de/portal/de/privatkunden/hilfe-kontakt/services/aktuelle-meldungen-corona.html,https://www.commerzbank.de/portal/media/a-20-themen/corona-virus/geoeffnete-Filalen.pdf
+bank,Deutsche Bank,Q66048,partial,,,https://www.deutsche-bank.de/pk/Corona-update.html,https://www.deutsche-bank.de/pfb/content/pk-filialsuche.html
 bank,Erzgebirgssparkasse,Q1366150,partial,,,https://www.erzgebirgssparkasse.de/de/home/ihre-sparkasse/aktuelle-information--corona-.html,https://www.erzgebirgssparkasse.de/de/home/ihre-sparkasse/aktuelle-information--corona-.html
 bank,Frankfurter Sparkasse,Q1445030,partial,,,https://www.frankfurter-sparkasse.de/de/home/aktionen/info-zum-coronavirus.html,https://www.frankfurter-sparkasse.de/de/home/ihre-sparkasse/service-und-kontakt/filiale-finden.html
 bank,Hamburger Sparkasse,Q1573140,open_adapted,,,https://www.haspa.de/de/home/services-und-hilfe/informationen-zum-coronavirus.html,https://www.haspa.de/content/dam/myif/haspa/work/dokumente/pdf/haspa/presse/filialen-oeffnungszeiten.pdf
-bank,HypoVereinsbank,Q220189,partial,"","",https://www.hypovereinsbank.de/hvb/services/aktuelle-hinweise#parsys_contact_bar,https://www.hypovereinsbank.de/hvb/kontaktwege/filiale
+bank,HypoVereinsbank,Q220189,partial,,,https://www.hypovereinsbank.de/hvb/services/aktuelle-hinweise#parsys_contact_bar,https://www.hypovereinsbank.de/hvb/kontaktwege/filiale
 bank,Kreissparkasse Böblingen,Q1290595,partial,,,https://www.kskbb.de/de/home/aktionen/notfallplanung.html,https://www.kskbb.de/de/home/service/filiale-finden.html
 bank,Kreissparkasse Esslingen-Nürtingen,Q1492852,partial,,,https://www.ksk-es.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.ksk-es.de/de/home/toolbar/filialen.html
 bank,Kreissparkasse Heilbronn,Q1787781,partial,,,https://www.sparkasse-heilbronn.de/de/home/aktionen/corona.html,https://www.sparkasse-heilbronn.de/de/home/service/filiale-finden.html
@@ -28,7 +28,7 @@ bank,Landessparkasse zu Oldenburg,Q1802620,open_adapted,,,https://www.lzo.com/de
 bank,Mittelbrandenburgische Sparkasse,Q1940058,partial,,,https://www.mbs.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.mbs.de/de/home/toolbar/filialen.html
 bank,Nassauische Sparkasse,Q1751833,partial,,,https://www.naspa.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.naspa.de/de/home/service/filiale-finden.html
 bank,Ostsächsische Sparkasse Dresden,Q2036125,partial,,,https://www.ostsaechsische-sparkasse-dresden.de/de/home/aktuelles.html,https://www.ostsaechsische-sparkasse-dresden.de/de/home/ihre-sparkasse/fahrbare-filialen.htmlnk.de/hvb/kontaktwege/filiale
-bank,Santander,Q875292,partial,"","",https://www.santander.de/privatkunden/service-kontakt/information/corona/,https://www.santander.de/standortsuche
+bank,Santander,Q875292,partial,,,https://www.santander.de/privatkunden/service-kontakt/information/corona/,https://www.santander.de/standortsuche
 bank,Sparkasse Aachen,Q2307270,partial,,,https://www.sparkasse-aachen.de/de/home/aktionen/informationen-zum-coronavirus_ac.html,https://www.sparkasse-aachen.de/de/home/service/filiale-finden.html
 bank,Sparkasse Aschaffenburg-Alzenau,Q2307290,partial,,,https://www.spk-aschaffenburg.de/de/home/aktionen-sparkasse/module/corona-faq.html,https://www.spk-aschaffenburg.de/de/home/service/filiale-finden.html
 bank,Sparkasse Erlangen Höchstadt Herzogenaurach,Q2326324,partial,,,https://www.sparkasse-erlangen.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-erlangen.de/de/home/toolbar/filialen.html
@@ -48,43 +48,43 @@ bank,Sparkasse Ulm,Q18630954,partial,,,https://www.sparkasse-ulm.de/de/home/ihre
 bank,Sparkasse Vorpommern,Q2307709,partial,,,https://www.spk-vorpommern.de/de/home/aktionen/corona.html,https://www.spk-vorpommern.de/de/home/aktionen/oeffnungszeiten_corona.html
 bank,Sparkasse Westmünsterland,Q1567929,partial,,,https://www.sparkasse-westmuensterland.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-westmuensterland.de/de/home/toolbar/filialen.html
 bank,Stadtsparkasse München,Q1438593,partial,,,https://www.sskm.de/de/home/aktionen/aktuelle-kundeninformation-coronavirus.html,https://www.sskm.de/de/home/service/filiale-finden.html
-car_repair,A.T.U,Q784721,closed,"","",https://www.atu.de/pages/corona.html,
-car_repair,Carglass,Q1035997,open,"","",https://www.carglass.de/corona,https://www.carglass.de/standorte
-car_repair,Pitstop,Q1310014,open,"","",https://www.pitstop.de/,""
-car_rental,Avis,Q791136,partial,"","",https://www.avis.de/avis-coronavirus-advice,https://www.avis.de/avis-coronavirus-advice
-car_rental,Buchbinder,"",partial,"","",https://www.buchbinder.de/de/coronavirus/,https://www.buchbinder.de/de/stationen/
-car_rental,Enterprise,Q17085454,partial,"","",https://www.enterprise.de/de/hilfe/notifications/advisory.html,https://www.enterprise.de/de/autovermietung/standorte/deutschland.html
-car_rental,Europcar,Q1376256,partial,"","",https://www.europcar.de/wichtige-informationen,https://www.europcar.de/standorte
-car_rental,Hertz,Q1543874,partial,"","",https://www.hertz.de/rentacar/misc/index.jsp?targetPage=coronavirus_travel_safety_tips.xml,https://www.hertz.de/rentacar/location
-car_rental,Sixt,Q705664,partial,"","",https://www.sixt.de/magazine/news/aktuelle-informationen-zum-coronavirus-covid-19/,https://www.sixt.de/mietwagen/
-doityourself,Bauhaus,Q672043,partial,"","",https://www.bauhaus.info/aktuelle-lage,https://www.bauhaus.info/aktuelle-lage/fachcentren
-doityourself,BayWa,Q812055,partial,"","",https://www.baywa-baumarkt.de/cms/de/LP/aktuelle-situation-bei-baywa.htm,https://www.baywa-baumarkt.de/cms/de/Standorte.htm
-doityourself,Globus Baumarkt,Q457503,partial,"","",https://www.globus-baumarkt.de/aktuelle-infos/#maerkte,https://www.globus-baumarkt.de/
-doityourself,Hagebau,Q1568279,partial,"","",https://www.hagebau.de/marktfinder/,https://www.hagebau.de/marktfinder/
-doityourself,Hornbach,Q685926,partial,"","",https://www.hornbach.de/mein-markt/aktuelle-infos-zu-ihrem-einkauf-und-zur-lage/,https://www.hornbach.de/mein-markt/
-doityourself,OBI,Q300518,partial,"","",https://www.obi.de/corona/markt-infos/,https://www.obi.de/corona/markt-infos/
-doityourself,toom Baumarkt,Q2442970,partial,"","",https://toom.de/aktionen/aktuelle-informationen/,https://toom.de/aktionen/aktuelle-informationen/
-fuel,Agip,"",open,"","","",https://stationfinder.agipstation.de/
-fuel,Aral,Q565734,open,"","",https://www.aral.de/de/global/retail/ueber-aral/wir-sind-fuer-sie-da.html,https://mein.aral.de/tankstellenfinder
-fuel,Avia,Q300147,open,"","","",https://www.avia.de/avia-tanken/tankstellen/tankstellen-suche.html
-fuel,bft,Q1009104,partial,"","","",https://www.bft.de/tankstellenfinder
-fuel,Classic,Q33127117,open,"","","",https://classic-oil.de/tankstellen/unsere-tankstellen/
-fuel,Esso,Q867662,open,"","",https://www.esso.de/coronavirus,https://www.esso.de/stations
-fuel,HEM,Q1563517,open,"","","",https://www.hem-tankstelle.de/produkteundservices/tankstellenfinder
-fuel,Hoyer,Q1606119,open,"","","",https://www.hoyer-tankstellen.de/tankstellen
-fuel,Jet,Q568940,open,"","",https://www.jet-tankstellen.de/,https://www.jet-tankstellen.de/kraftstoff/filialfinder/
-fuel,OMV,Q168238,open,"","",https://www.omv.de/de-de/tankstellen/fur-sie-da,https://www.omv.de/de-de/tankstellen/tankstellenfinder
-fuel,Q1,Q2121146,open,"","","",https://www.q1.eu/de/tankstellen/tankstellenfinder
-fuel,Raiffeisen,"",open,"","","",https://www.raiffeisentankstelle.de/standorte/suche/
-fuel,Shell,Q154950,open_adapted,"","",https://www.shell.de/covid19/shell-tankstellen-bleiben-weitgehend-geoeffnet.html,https://www.shell.de/autofahrer/shell-station-locator.html
-fuel,star,,open,"","",https://www.star.de/187/corona-virus-aktuelle-informationen/,https://www.star.de/service/tankstellenfinder
-fuel,Total,Q154037,open,"","",https://www.total.de/,https://www.total.de/tankstellen/tankstellenfinder
-fuel,Westfalen,Q1411209,open,"","",,https://westfalen.com/de/de/tankstellen-mobilitaet/
-garden_centre,Dehner,Q1183029,partial,"","",https://www.dehner.de/aktuelle-informationen/,https://www.dehner.de/market/
-garden_centre,Raiffeisen-Markt,"",open,"","","",https://www.raiffeisenmarkt.de/AjaxStoreLocatorDisplayView?catalogId=10051&langId=-3&storeId=10151
-garden_centre,ZG Raiffeisen,Q136135,open,"","",https://www.zg-raiffeisen.de/maerkte/news/zg-raiffeisen-niederlassungen-trotz-krise-geoeffnet,https://www.zg-raiffeisen.de/maerkte
-stationery,McPaper,Q1915329,partial,"","","",""
-stationery,Staples,Q785943,partial,"","",https://www.staples.de/Content/Static/corona-information/coronainformation.cshtml,https://www.staples.de/Content/Static/corona-information/coronainformation.cshtml
+car_repair,A.T.U,Q784721,closed,,,https://www.atu.de/pages/corona.html,
+car_repair,Carglass,Q1035997,open,,,https://www.carglass.de/corona,https://www.carglass.de/standorte
+car_repair,Pitstop,Q1310014,open,,,https://www.pitstop.de/,
+car_rental,Avis,Q791136,partial,,,https://www.avis.de/avis-coronavirus-advice,https://www.avis.de/avis-coronavirus-advice
+car_rental,Buchbinder,,partial,,,https://www.buchbinder.de/de/coronavirus/,https://www.buchbinder.de/de/stationen/
+car_rental,Enterprise,Q17085454,partial,,,https://www.enterprise.de/de/hilfe/notifications/advisory.html,https://www.enterprise.de/de/autovermietung/standorte/deutschland.html
+car_rental,Europcar,Q1376256,partial,,,https://www.europcar.de/wichtige-informationen,https://www.europcar.de/standorte
+car_rental,Hertz,Q1543874,partial,,,https://www.hertz.de/rentacar/misc/index.jsp?targetPage=coronavirus_travel_safety_tips.xml,https://www.hertz.de/rentacar/location
+car_rental,Sixt,Q705664,partial,,,https://www.sixt.de/magazine/news/aktuelle-informationen-zum-coronavirus-covid-19/,https://www.sixt.de/mietwagen/
+doityourself,Bauhaus,Q672043,partial,,,https://www.bauhaus.info/aktuelle-lage,https://www.bauhaus.info/aktuelle-lage/fachcentren
+doityourself,BayWa,Q812055,partial,,,https://www.baywa-baumarkt.de/cms/de/LP/aktuelle-situation-bei-baywa.htm,https://www.baywa-baumarkt.de/cms/de/Standorte.htm
+doityourself,Globus Baumarkt,Q457503,partial,,,https://www.globus-baumarkt.de/aktuelle-infos/#maerkte,https://www.globus-baumarkt.de/
+doityourself,Hagebau,Q1568279,partial,,,https://www.hagebau.de/marktfinder/,https://www.hagebau.de/marktfinder/
+doityourself,Hornbach,Q685926,partial,,,https://www.hornbach.de/mein-markt/aktuelle-infos-zu-ihrem-einkauf-und-zur-lage/,https://www.hornbach.de/mein-markt/
+doityourself,OBI,Q300518,partial,,,https://www.obi.de/corona/markt-infos/,https://www.obi.de/corona/markt-infos/
+doityourself,toom Baumarkt,Q2442970,partial,,,https://toom.de/aktionen/aktuelle-informationen/,https://toom.de/aktionen/aktuelle-informationen/
+fuel,Agip,,open,,,,https://stationfinder.agipstation.de/
+fuel,Aral,Q565734,open,,,https://www.aral.de/de/global/retail/ueber-aral/wir-sind-fuer-sie-da.html,https://mein.aral.de/tankstellenfinder
+fuel,Avia,Q300147,open,,,,https://www.avia.de/avia-tanken/tankstellen/tankstellen-suche.html
+fuel,bft,Q1009104,partial,,,,https://www.bft.de/tankstellenfinder
+fuel,Classic,Q33127117,open,,,,https://classic-oil.de/tankstellen/unsere-tankstellen/
+fuel,Esso,Q867662,open,,,https://www.esso.de/coronavirus,https://www.esso.de/stations
+fuel,HEM,Q1563517,open,,,,https://www.hem-tankstelle.de/produkteundservices/tankstellenfinder
+fuel,Hoyer,Q1606119,open,,,,https://www.hoyer-tankstellen.de/tankstellen
+fuel,Jet,Q568940,open,,,https://www.jet-tankstellen.de/,https://www.jet-tankstellen.de/kraftstoff/filialfinder/
+fuel,OMV,Q168238,open,,,https://www.omv.de/de-de/tankstellen/fur-sie-da,https://www.omv.de/de-de/tankstellen/tankstellenfinder
+fuel,Q1,Q2121146,open,,,,https://www.q1.eu/de/tankstellen/tankstellenfinder
+fuel,Raiffeisen,,open,,,,https://www.raiffeisentankstelle.de/standorte/suche/
+fuel,Shell,Q154950,open_adapted,,,https://www.shell.de/covid19/shell-tankstellen-bleiben-weitgehend-geoeffnet.html,https://www.shell.de/autofahrer/shell-station-locator.html
+fuel,star,,open,,,https://www.star.de/187/corona-virus-aktuelle-informationen/,https://www.star.de/service/tankstellenfinder
+fuel,Total,Q154037,open,,,https://www.total.de/,https://www.total.de/tankstellen/tankstellenfinder
+fuel,Westfalen,Q1411209,open,,,,https://westfalen.com/de/de/tankstellen-mobilitaet/
+garden_centre,Dehner,Q1183029,partial,,,https://www.dehner.de/aktuelle-informationen/,https://www.dehner.de/market/
+garden_centre,Raiffeisen-Markt,,open,,,,https://www.raiffeisenmarkt.de/AjaxStoreLocatorDisplayView?catalogId=10051&langId=-3&storeId=10151
+garden_centre,ZG Raiffeisen,Q136135,open,,,https://www.zg-raiffeisen.de/maerkte/news/zg-raiffeisen-niederlassungen-trotz-krise-geoeffnet,https://www.zg-raiffeisen.de/maerkte
+stationery,McPaper,Q1915329,partial,,,,
+stationery,Staples,Q785943,partial,,,https://www.staples.de/Content/Static/corona-information/coronainformation.cshtml,https://www.staples.de/Content/Static/corona-information/coronainformation.cshtml
 supermarket,ALDI,Q125054,open,,,https://www.aldi-nord.de/tools/rueckrufe/hinweis-filialoeffnung.html,https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten.html
 supermarket,Alnatura,Q876811,open_adapted,,,https://www.alnatura.de/de-de/m%C3%A4rkte/gemeinsamfueralle,https://www.alnatura.de/de-de/m%C3%A4rkte/filialfinder
 supermarket,Basic,Q809994,open_adapted,,,https://basicbio.de/,https://basicbio.de/de-DE/Maerkte
