@@ -101,6 +101,7 @@ DE,stationery,McPaper,Q1915329,partial,,,,
 DE,stationery,Staples,Q785943,partial,,,https://www.staples.de/Content/Static/corona-information/coronainformation.cshtml,https://www.staples.de/Content/Static/corona-information/coronainformation.cshtml
 DE,supermarket,Bio Company,Q864179,open_adapted,,,https://www.biocompany.de/neuigkeiten/hinweise.html,https://www.biocompany.de/bio-company-markt-finden/
 DE,supermarket,ALDI,Q125054,open,,,https://www.aldi-nord.de/tools/rueckrufe/hinweis-filialoeffnung.html,https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten.html
+DE,supermarket,Aldi Süd,Q41171672,open,,,https://www.aldi-sued.de/de/infos/gemeinsam-geht-alles/,https://www.aldi-sued.de/filialen/
 DE,supermarket,Alnatura,Q876811,open_adapted,,,https://www.alnatura.de/de-de/m%C3%A4rkte/gemeinsamfueralle,https://www.alnatura.de/de-de/m%C3%A4rkte/filialfinder
 DE,supermarket,Basic,Q809994,open_adapted,,,https://basicbio.de/,https://basicbio.de/de-DE/Maerkte
 DE,supermarket,Combi,Q1113618,open,,,https://www.combi.de/,https://www.combi.de/UnsereMaerkte/Marktsuche
