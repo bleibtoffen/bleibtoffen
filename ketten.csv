@@ -135,3 +135,14 @@ CH,bank,Raiffeisen,Q681189,partial,,Nur in dringenden fällen auf Voranmeldung,h
 CH,bank,UBS,Q193199,partial,,,https://www.ubs.com/ch/de/help/covid-info.html,
 CH,doityourself,Landi,Q1803010,partial,,,https://www.landi.ch/laden/service/Haeufig-gestellte-Fragen-FAQ,https://www.landi.ch/places/de
 CH,doityourself,Jumbo,,partial,,,https://www.jumbo.ch/de/coronavirus-info,https://www.jumbo.ch/de
+CH,doityourself,OBI,Q300518,partial,,,,https://www.obi.ch/
+CH,doityourself,Hornbach,Q685926,partial,,,https://www.hornbach.ch/aktuelles/aktuelle-informationen/,https://www.hornbach.ch/
+CH,doityourself,Bauhaus,Q672043,partial,,,https://www.bauhaus.ch/de/content/aktuelles/aktuelle-situation.html,https://www.bauhaus.ch
+CH,doityourself,Coop Bau + Hobby,Q432564,partial,,,,https://www.bauundhobby.ch/
+CH,doityourself, Do it & Garden,Q680727,partial,,,https://www.doitgarden.ch/de/cp/aktuell,https://www.doitgarden.ch
+CH,chemist,Amavita,,open,,,https://www.amavita.ch/de/info-covid19,https://www.amavita.ch/de/storepickup
+CH,chemist,TopPharm,,open,,,,https://www.toppharm.ch/hauslieferdienst
+CH,chemist,Dropa,Q1260273,open,,,https://dropa.ch/ratgeber/alle-dropa-drogerien-und-apotheken-sind-geoeffnet,https://dropa.ch
+CH,optician,Fielmann,Q457822,partial,,nur Notfälle,https://www.fielmann.ch,https://www.fielmann.ch/de/niederlassungen/
+CH,optician,Visilab,Q2528307,closed,,Hotline für Notfälle,https://www.visilab.ch,https://www.visilab.ch/de/faq/info/
+CH,bakery,Brezelkönig,,open,,,,https://brezelkoenig.ch/de/standorte/?Format=11
