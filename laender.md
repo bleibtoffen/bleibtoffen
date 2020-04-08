@@ -16,7 +16,7 @@ Source: https://corona.karlsruhe.de/content/downloads/200328_CoronaVO_Konsolidie
 - Sanitätsbedarf (Hör- und Sehhilfen) :arrow_right: `shop=medical_supply` and `shop=hearing_aids` and `shop=optician`
 - Tankstellen (`amenity=fuel`)
 - Banken (`amenity=bank`)
-- Waschsalons (`shop=laundy`)
+- Waschsalons (`shop=laundry`)
 - Buch- und Zeitungsverkauf (`shop=books` and `shop=newsagent`)
 - Baumärkte (`shop=hardware`) sowie Einzelhandel für Gartenbau (`shop=doityourself`)
 - Geschäfte für Tiernahrung (`shop=agrarian;agrarian=feed`)
