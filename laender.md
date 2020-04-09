@@ -599,6 +599,8 @@ Source: https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pa
 - Barbetriebe sowie Diskotheken, Nachtclubs und Erotikbetriebe
 - Unterhaltungs- und Freizeitbetriebe, namentlich Museen, Bibliotheken, Kinos, Konzerthäuser, Theater, Casinos, Sportzentren, Fitnesszentren, Schwimmbäder, Wellnesszentren und Skigebiete, botanische und zoologische Gärten und Tierparks
 - Betriebe mit personenbezogenen Dienstleistungen mit Körperkontakt wie Coiffeure, Massagen, Tattoo-Studios und Kosmetik
+- Automobilhäuser (nur Werkstattsarbeiten erlaubt, kein Verkauf)
+- Gebetshäuser inkl. Gottesdienste
 
 #### Offen
 
@@ -607,16 +609,16 @@ Source: https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pa
 - Lebensmittelläden und sonstige Läden, soweit sie Lebensmittel und Gegenstände für den täglichen Bedarf (z.B. Kioske, Tankstellenshops) anbieten
 - Imbiss-Betriebe (Take-away), Betriebskantinen, Lieferdienste für Mahlzeiten und Restaurationsbetriebe für Hotelgäste
 - Apotheken, Drogerien und Läden für medizinische Hilfsmittel (z.B. Brillen, Hörgeräte)
-- Poststellen und Postagenturen
+- Poststellen und Postagenturen (nur postalische Produkte, kein Verkauf von Mobile-Abos usw.)
 - Verkaufsstellen von Telekommunikationsanbietern
 - Banken
 - Tankstellen
 - Bahnhöfe und andere Einrichtungen des öffentlichen Verkehrs
-- Werkstätten für Transportmittel
+- Werkstätten für Transportmittel (kein Verkauf)
 - Öffentliche Verwaltung (inkl. Anstalten des Freiheitsentzugs)
-- Soziale Einrichtungen (z.B. Anlaufstellen)
+- Soziale Einrichtungen (z.B. Anlaufstellen teilweise geöffnet, vielerorts aber geschlossen)
 - Beerdigungen im engen Familienkreis
-- Gesundheitseinrichtungen wie Spitäler, Kliniken und Arztpraxen sowie Praxen und Einrichtungen von Gesundheitsfachpersonen nach Bundesrecht und kantonalem Recht
+- Gesundheitseinrichtungen wie Spitäler, Kliniken und Arztpraxen sowie Praxen und Einrichtungen von Gesundheitsfachpersonen nach Bundesrecht und kantonalem Recht. Es werden nur notwendige, nicht verschiebbare Operationen durchgeführt.
 - Hotels und Beherbergungsbetriebe
 - Stellplätze für Wohnwagen und Wohnmobile in Dauermiete oder für Fahrende
 </details>
