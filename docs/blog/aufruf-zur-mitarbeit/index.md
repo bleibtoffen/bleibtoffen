@@ -1,4 +1,4 @@
-# Öffentlicher Aufruf zur Beteiligung bei CA RESTE OUVERT
+# Öffentlicher Aufruf zur Beteiligung bei „Bleibt offen“
 
 Ein Appell an alle jetzt mitzumachen: An alle Mitbürger, Verwaltungen, Gesellschaften, Körperschaften, öffentlichen und privaten Akteure, an alle von der aktuellen Covid19-Krise Betroffene: teilen Sie Ihr Wissen und Ihre Daten.
 
@@ -6,7 +6,7 @@ Die aktuelle Notsituation erfordert dringend, dass wir unsere Kräfte auf pragma
 
 **Ihr Beitrag als engagierte Bürger**
 
-Als Anwohner können Sie [direkt auf der Karte](https://www.caresteouvert.fr/) die offenen Orte in der eigenen Nachbarschaft angeben. Dies erfordert keine besonderen technischen Fähigkeiten.
+Als Anwohner können Sie [direkt auf der Karte](https://www.bleibtoffen.org/) die offenen Orte in der eigenen Nachbarschaft angeben. Dies erfordert keine besonderen technischen Fähigkeiten.
 
 **Halten Sie sich an die gesetzlichen Vorschriften. Es liegt in Ihrer Verantwortung.**
 
@@ -28,8 +28,8 @@ Wenn Sie es schaffen, Ihr Viertel oder sogar Ihre Stadt zu kartieren, können Si
 
 Sprechen Sie mit und über uns auf Twitter und Facebook.
 
-* [Twitter](https://twitter.com/caresteouvert)
-* [Facebook](https://www.facebook.com/%C3%87a-reste-ouvert-102510298066358)
+* [Twitter](https://twitter.com/bleibtoffen)
+* [Facebook](https://www.facebook.com/bleibtoffen)
 
 Die Software, mit der wir die Karte erstellen ist Open Source. Der Quellcode ist offen und gut dokumentiert und auch die anstehenden Entwicklungen der Webseite sind öffentlich einsehbar: [https://github.com/osmontrouge/covid19_map](https://github.com/osmontrouge/covid19_map). Wenn Sie technische Kenntnisse haben, ist Ihre Hilfe herzlich willkommen.
 
@@ -45,4 +45,4 @@ Falls Ihre Firma nicht über die erforderlichen Kompetenzen im eigenen Haus verf
 
 * [Dienstleister](https://wiki.openstreetmap.org/wiki/Commercial_OSM_Software_and_Services)
 
-Sobald die Daten in OpenStreetMap integriert sind, erscheinen die Öffnungszeiten mit einer kleinen Verzögerung auf der Seite [CA RESTE OUVERT](https://carestouvert.fr). Diese Webseite kann als Informationsportal von den Bürgerinnen und Bürger benutzt werden.
+Sobald die Daten in OpenStreetMap integriert sind, erscheinen die Öffnungszeiten mit einer kleinen Verzögerung auf der Seite [Bleibt offen](https://www.bleibtoffen.org). Diese Webseite kann als Informationsportal von den Bürgerinnen und Bürger benutzt werden.

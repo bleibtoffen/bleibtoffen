@@ -1,6 +1,6 @@
-# CA RESTE OUVERT: Eine gemeinsame gestaltete Karte mit geöffneten Geschäften während der Covid-19-Krise
+# Bleibt offen: Eine gemeinsame gestaltete Karte mit geöffneten Geschäften während der Covid-19-Krise
 
-CA RESTE OUVERT ist während der Zeit der Ausgangsbeschränkungen ein nützliches Hilfsmittel, erfolglose Fahrten zu vermeiden und damit das Ansteckungsrisiko zu vermindern.
+„Bleibt offen“ ist während der Zeit der Ausgangsbeschränkungen ein nützliches Hilfsmittel, erfolglose Fahrten zu vermeiden und damit das Ansteckungsrisiko zu vermindern.
 
 Diese gemeinsam gestaltete Karte ermögicht es dir, auf einfache Art und Weise an deine Nachbarschaft weiterzuleiten, welche Geschäfte in eurer Umgebung geöffnet sind oder geschlossen haben.
 
@@ -18,7 +18,7 @@ _Wir arbeiten täglich und mit höchster Priorität an diesem Werkzeug. Und täg
 
 Weitere Informationen findest du [auf unserem Blog](https://blog.caresteouvert.fr).
 
-#### Das Team hinter CA REST OUVERT
+#### Das Team hinter „Bleibt offen“
 
 Das Freiwilligen-Team setzt sich aus Geo-Informatikern zusammen. Sie haben sich zusammengetan um schnellstmöglich eine Antwort auf die aktuelle Covid-19-Krise zu finden. Wir sind alle leidenschaftliche OpenStreetMapperinnen und Mapper.
 
