@@ -47,7 +47,7 @@ Sobald ihr alles fertig habt, müsst ihr die Änderungen noch nur speichern. Hie
 
 #### Das war es schon!
 
-Glückwunsch zu diesem ersten Beitrag und herzlich willkommen in der OpenStreetMap-Community! Ihr müsst euch jetzt nur noch etwas gedulden. Die neuen Geschäfte werden regelmäßig automatisch zu **CA RESTE OUVERT** hinzugefügt. Sie können nun hier anschliessend alle Informationen hinzufügen, die den Covid19-Lockdown betreffen.
+Glückwunsch zu diesem ersten Beitrag und herzlich willkommen in der OpenStreetMap-Community! Ihr müsst euch jetzt nur noch etwas gedulden. Die neuen Geschäfte werden regelmäßig automatisch zu **Bleibt offen** hinzugefügt. Sie können dann hier anschliessend alle Informationen hinzufügen, die den Covid19-Lockdown betreffen.
 
 #### Einige zusätzlichen Informationen
 
