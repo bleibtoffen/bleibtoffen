@@ -1,8 +1,8 @@
 # Rechtlichliche Hinweise
 
-## Die Website Bleibt Offen
+## Die Website „Bleibt offen“
 
-Der Kartenteil der Website "Bleibt Offen" besteht aus folgenden Komponenten:
+Der Kartenteil der Website „Bleibt offen“ besteht aus folgenden Komponenten:
 
 
 * http://bleibtoffen.de für Deutschland und gehört dem FOSSGIS e.V.
@@ -25,9 +25,9 @@ Herr Florian Lainez ist hierfür verantwortlich und kann unter folgender E-Mail-
 
 Die Website wird von dem in Frankreich ansässigen Unternehmen Scalingo gehostet, das Schutzklauseln in Übereinstimmung mit dem DSGVO anbietet.
 
-## Die allgemeinen Nutzungsbedingungen der Website Bleibt Offen
+## Die allgemeinen Nutzungsbedingungen der Website „Bleibt offen“
 
-Die Nutzung der Website Bleibt Offen setzt die vollständige und uneingeschränkte Annahme 
+Die Nutzung der Website „Bleibt offen“ setzt die vollständige und uneingeschränkte Annahme 
 der nachstehend beschriebenen allgemeinen Nutzungsbedingungen voraus. 
 
 Diese Nutzungsbedingungen können von JUNGLE BUS jederzeit geändert oder ergänzt werden. 
@@ -83,10 +83,10 @@ um seine eigenen Daten und/oder Software vor der Kontamination durch im Internet
 
 ## Cookies
 
-Wenn Sie auf der Website "Bleibt Offen" surfen, werden Cookies auf Ihrem Browser abgelegt. 
+Wenn Sie auf der Website „Bleibt offen“ surfen, werden Cookies auf Ihrem Browser abgelegt. 
 Für einige von ihnen ist Ihre Zustimmung erforderlich.
 
-Diese Cookies ermöglichen es, anonyme Nutzungsstatistiken für die Website "Bleibt Offen" zu generieren, 
+Diese Cookies ermöglichen es, anonyme Nutzungsstatistiken für die Website „Bleibt offen“ zu generieren, 
 um deren Ergonomie, Navigation und Inhalt zu optimieren. 
 Wenn Sie diese Cookies deaktivieren, können wir die Nutzung auf der Website nicht analysieren.
 

@@ -1,8 +1,8 @@
-# Was tun, wenn ein Geschäft in CA RESTE OUVERT fehlt?
+# Was tun, wenn ein Geschäft in „Bleibt offen“ fehlt?
 
-_Euer Bäcker oder die Apotheke um die Ecke sind nicht auf CA RESTE OUVERT? Keine Grund zur Sorge! Es ist nicht schwer unsere gemeinsame Karte, die die trotz Covid19-Lockdown noch geöffneten Geschäfte anzeigt, zu verbessern. Wir haben eine kleine Anleitung vorbereitet._
+_Euer Bäcker oder die Apotheke um die Ecke sind nicht auf „Bleibt offen“? Keine Grund zur Sorge! Es ist nicht schwer unsere gemeinsame Karte, die die trotz Covid19-Lockdown noch geöffneten Geschäfte anzeigt, zu verbessern. Wir haben eine kleine Anleitung vorbereitet._
 
-**CA REST OUVERT** verwendet Daten von OpenStreetMap (OSM). OSM ist die Wikipedia der Kartographie: eine weltweite Karte, die ihr mit eurem lokalen Wissen anreichern könnt. Und genau das werden wir machen: wir werden die OSM Datenbank mit den fehlenden Geschäften anreichern und somit die OSM-Karte verbessern.
+**Bleibt offen** verwendet Daten von OpenStreetMap (OSM). OSM ist die Wikipedia der Kartographie: eine weltweite Karte, die ihr mit eurem lokalen Wissen anreichern könnt. Und genau das werden wir machen: wir werden die OSM Datenbank mit den fehlenden Geschäften anreichern und somit die OSM-Karte verbessern.
 
 ![logo](logo.png)
 
@@ -16,7 +16,7 @@ Dieser Schritt ist notwendig, wenn man der OSM Community beitreten möchte, um d
 
 #### Schritt zwei: Die Karte bearbeiten
 
-Auf OpenStreetMap.org könnt ihr auf die gleiche Art und Weise euer Viertel entdecken, wie auf CA RESTE OUVERT oder anderen Karten im Internet. Zoomt an die Stelle, wo ihr ein Geschäft hinzufügen möchtet und klickt auf den Bearbeiten-Button oben links.
+Auf OpenStreetMap.org könnt ihr auf die gleiche Art und Weise euer Viertel entdecken, wie auf „Bleibt offen“ oder anderen Karten im Internet. Zoomt an die Stelle, wo ihr ein Geschäft hinzufügen möchtet und klickt auf den Bearbeiten-Button oben links.
 
 ![Bild bearbeiten](bearbeiten.png)
 
