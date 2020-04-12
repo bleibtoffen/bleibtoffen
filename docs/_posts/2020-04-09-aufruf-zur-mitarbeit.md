@@ -33,7 +33,7 @@ Wenn Sie es schaffen, Ihr Viertel oder sogar Ihre Stadt zu kartieren, können Si
 
 Sprechen Sie mit und über uns auf Twitter und Facebook.
 
-* [Twitter](https://twitter.com/bleibtoffen)
+* [Twitter](https://twitter.com/bleibtoffen_org)
 * [Facebook](https://www.facebook.com/bleibtoffen)
 
 Die Software, mit der wir die Karte erstellen ist Open Source. Der Quellcode ist offen und gut dokumentiert und auch die anstehenden Entwicklungen der Webseite sind öffentlich einsehbar: [https://github.com/osmontrouge/covid19_map](https://github.com/osmontrouge/covid19_map). Wenn Sie technische Kenntnisse haben, ist Ihre Hilfe herzlich willkommen.
