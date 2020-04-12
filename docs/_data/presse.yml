@@ -1,0 +1,19 @@
+logo:
+  - file: Logo-vertikal.jpg
+    title: Logo vertikal
+  - file: Logo-horizontal.jpg
+    title: Logo horizontal
+  - file: Logo-mobil.jpg
+    title: Logo mobil
+banner:
+  - file: Banner.jpg
+    title: Banner
+  - file: Banner-alternativ.jpg
+    title: Banner alternativ
+screenshot:
+  - file: Screenshot_Berlin.png
+    title: Berlin
+  - file: Screenshot_Strasbourg.png
+    title: Strasbourg
+  - file: Screenshot_Zuerich.png
+    title: Zürich

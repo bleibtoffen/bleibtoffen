@@ -1,6 +1,10 @@
-# „Bleibt offen“ startet in Deutschland, Schweiz und Österreich – die gemeinschaftliche Karte aller Geschäfte, die weiterhin geöffnet sind
-
-**Datum**: 12.04.2020
+---
+layout: post
+title: '1. Pressemitteilung: „Bleibt offen“ startet in Deutschland, Schweiz und Österreich – die gemeinschaftliche Karte aller Geschäfte, die weiterhin geöffnet sind'
+author: Claas Augner
+en: /2020/04/12/press-release.html
+fr: /2020/04/12/communique-de-presse.html
+---
 
 Hat die Bäckerei um die Ecke noch geöffnet? Bietet mein Lieblingsrestaurant auch Abholung an? Und bis wann hat der Supermarkt noch auf? All das sind Fragen, die sich viele Menschen stellen in Zeiten von Kontaktverboten und Ausgangsbeschränkungen. Die OpenStreetMap-Karte des ehrenamtlichen Gemeinschaftsprojekts „Bleibt offen“ hat die Lösung parat. Das Ziel: Unnötige Wege sparen und so das Risiko einer Ansteckung mit dem Coronavirus reduzieren.
 
@@ -15,14 +19,14 @@ Hinter dem deutschen Ableger verbirgt sich ein ehrenamtliches Team aus aktiven O
 „Bleibt offen“ ist schon heute in Deutschland (www.bleibtoffen.de), der Schweiz (www.bleibtoffen.ch) und Österreich (www.bleibtoffen.at) verfügbar. Richtig los geht es erwartungsgemäß jedoch erst nach dem Osterwochenende, wenn die Geschäfte wieder öffnen. Welche das sind, sehen wir dann bei „Bleibt offen“…
 
 Links:
-* Bleibt offen: https://www.bleibtoffen.org/
-* Bleibt offen Deutschland: https://www.bleibtoffen.de/
-* Bleibt offen Schweiz: https://www.bleibtoffen.ch/
-* Bleibt offen Österreich: https://www.bleibtoffen.at/
-* OpenStreetMap: https://www.openstreetmap.org/
-* OpenStreetMap Deutschland: https://www.openstreetmap.de/
-* OpenStreetMap Switzerland: https://www.osm.ch/
-* OpenStreetMap Österreich: https://www.openstreetmap.at/
-* Ça reste ouvert: https://www.caresteouvert.fr/
-* Geofabrik: https://www.geofabrik.de/
-* FOSSGIS: https://fossgis.de/
+* Bleibt offen: [www.bleibtoffen.org](https://www.bleibtoffen.org/)
+* Bleibt offen Deutschland: [www.bleibtoffen.de](https://www.bleibtoffen.de/)
+* Bleibt offen Schweiz: [www.bleibtoffen.ch](https://www.bleibtoffen.ch/)
+* Bleibt offen Österreich: [www.bleibtoffen.at](https://www.bleibtoffen.at/)
+* OpenStreetMap: [www.openstreetmap.org](https://www.openstreetmap.org/)
+* OpenStreetMap Deutschland: [www.openstreetmap.de](https://www.openstreetmap.de/)
+* OpenStreetMap Switzerland: [www.osm.ch](https://www.osm.ch/)
+* OpenStreetMap Österreich: [www.openstreetmap.at](https://www.openstreetmap.at/)
+* Ça reste ouvert: [www.caresteouvert.fr](https://www.caresteouvert.fr/)
+* Geofabrik: [www.geofabrik.de](https://www.geofabrik.de/)
+* FOSSGIS: [fossgis.de](https://fossgis.de/)
