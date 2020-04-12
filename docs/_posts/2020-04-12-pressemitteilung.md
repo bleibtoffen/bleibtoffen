@@ -23,6 +23,8 @@ Links:
 * Bleibt offen Deutschland: [www.bleibtoffen.de](https://www.bleibtoffen.de/)
 * Bleibt offen Schweiz: [www.bleibtoffen.ch](https://www.bleibtoffen.ch/)
 * Bleibt offen Österreich: [www.bleibtoffen.at](https://www.bleibtoffen.at/)
+* Bleibt offen auf Facebook: [facebook.com/bleibtoffen](https://www.facebook.com/bleibtoffen)
+* Bleibt offen auf Twitter: [twitter.com/bleibtoffen_org](https://www.twitter.com/bleibtoffen_org)
 * OpenStreetMap: [www.openstreetmap.org](https://www.openstreetmap.org/)
 * OpenStreetMap Deutschland: [www.openstreetmap.de](https://www.openstreetmap.de/)
 * OpenStreetMap Switzerland: [www.osm.ch](https://www.osm.ch/)
