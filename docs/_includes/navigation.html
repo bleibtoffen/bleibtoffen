@@ -1,0 +1,9 @@
+<div class="sticky-top mb-4 p-2 shadow-sm bg-white">
+    <ul class="nav nav-pills justify-content-center">
+        {% for item in site.data.navigation %}
+        <li class="nav-item">
+            <a class="nav-link{% if page.url == item.link %} active{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

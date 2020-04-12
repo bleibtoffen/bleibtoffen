@@ -1,21 +1,25 @@
-# Rechtlichliche Hinweise
+---
+layout: post
+title: Impressum
+source: https://blog.caresteouvert.fr/mentions-legales/
+---
 
 ## Die Website „Bleibt offen“
 
 Der Kartenteil der Website „Bleibt offen“ besteht aus folgenden Komponenten:
 
 
-* http://bleibtoffen.de für Deutschland und gehört dem FOSSGIS e.V.
-* http://bleibtoffen.ch für die Schweiz und gehört der SOSM
-* http://bleibtoffen.at für Österreich und gehört der SOSM
+* https://www.bleibtoffen.de für Deutschland und gehört dem FOSSGIS e.V.
+* https://www.bleibtoffen.ch für die Schweiz und gehört der SOSM
+* https://www.bleibtoffen.at für Österreich und gehört der SOSM
 
 
-Daneben gibt es einen Blog, der unter der URL http://blog.bleibtoffen.org erreichbar ist.
+Daneben gibt es einen Blog, der unter der URL https://www.bleibtoffen.org/ erreichbar ist.
 
 Die Domänen bleibtoffen.ch, bleibtoffen.at und bleibtoffen.org gehören der [Swiss OpenStreetMap Association](https://sosm.ch/)
 Die Domäne bleibtoffen.de gehört dem [Fossgis e.V.](https://www.fossgis.de/verein/).
 
-Sie sind der deutschsprachige Ableger der Webseite [Ça reste ouvert](http://carestouvert.fr)
+Sie sind der deutschsprachige Ableger der Webseite [Ça reste ouvert](https://www.carestouvert.fr)
 
 Die Website gehört der Gesellschaft JUNGLE BUS, Société par actions simplifiée, 
 mit einem Aktienkapital von 1.000 Euro, die im Handels- und Gesellschaftsregister Nanterre unter der Nummer 849 018 866 eingetragen ist 
@@ -111,6 +115,3 @@ Die auf der Website wiedergegebenen Fotografien haben einen rein illustrativen W
 Der vorliegende Rechtliche Hinweis unterliegt dem französischen Recht.
 Im Falle eines Rechtsstreits bezüglich der Auslegung oder Ausführung des vorliegenden Dokuments zwischen JUNGLE BUS 
 und einem Benutzer sind ausschließlich die Gerichte von Paris zuständig.
-
-
-

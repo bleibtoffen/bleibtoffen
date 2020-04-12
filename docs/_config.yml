@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+collections:
+    - team_de
+    - team_fr
+
+defaults:
+    - scope:
+        path: ""
+      values:
+        layout: "default"

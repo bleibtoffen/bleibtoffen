@@ -1,4 +1,9 @@
-## Bleibt offen: Ein Kommunikationsinstrument für Gemeinden
+---
+layout: post
+title: "Bleibt offen: Ein Kommunikationsinstrument für Gemeinden"
+source: https://blog.caresteouvert.fr/un-outil-de-communication-des-mairies/
+translator: Christine Karch
+---
 
 Immer mehr Gemeinden verwenden „Bleibt offen“ als Kommunikationsmittel bei der Bewältigung der Covid19-Krise, wie zum Beispiel die Stadt Lyon.
 
@@ -8,7 +13,7 @@ Ortsverwaltungen, Gemeinden, Landratsämter, Regierungsbehörden: Informieren Si
 
 Sie müssen nur den Link zu unserer Website [www.bleibtoffen.org](https://www.bleibtoffen.org) weitergeben und hinzufügen, dass man hier Informationen über geöffnete Geschäfte findet und darum bitten, fehlende Informationen zu ergänzen. Sie haben auch die Möglichkeit, unsere Karte in einem Iframe auf Ihrer eigenen Website zu integrieren.
 
-![Logo](logo.png)
+<img alt="Logo: Bleibt offen" src="/assets/images/logo-alternativ.png" style="max-width: 100%" />
 
 Vielleicht haben Sie bereits die auf Ihrem Gebiet geöffneten Geschäfte gesammelt: Öffnungszeiten, Lieferbedingungen, Telefonnummern ... Sie können die Informationen über diese Orte direkt auf der Karte „Bleibt offen“ ändern.
 
@@ -26,7 +31,7 @@ Die Karte selbst und die zugrundeliegenden Daten stehen alle unter der OdbL-Lize
 
 <p>OpenStreetMap erfüllt die Anforderungen der DSGVO. OpenStreetMap ist ein strukturiertes, organisiertes Projekt, mit einer durchdachten Datenschutzrichtlinie und präzisen Bedingungen und Konditionen. Insbesondere besteht das Prinzip des Projekts darin, nur öffentliche Daten zu sammeln.</p>
 
-![Attribute](attribute.png)
+![Attribute](/assets/images/kommunikationswerkzeug/attribute.png)
 
 Beispiel für Daten in diesem Zusammenhang ist das Restaurant "Caveau Gurtlerhoft" in OpenStreetMap: Adresse, Telefonnummer, Internetseite. Diese Daten sind öffentlich und unterliegen daher nicht der Regelung zum Schutz personenbezogener Daten.
 

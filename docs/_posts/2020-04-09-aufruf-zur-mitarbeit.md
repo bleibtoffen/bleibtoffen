@@ -1,4 +1,9 @@
-# Öffentlicher Aufruf zur Beteiligung bei „Bleibt offen“
+---
+layout: post
+title: Öffentlicher Aufruf zur Beteiligung bei „Bleibt offen“
+source: https://blog.caresteouvert.fr/contributeurs-openstreetmap-aidez-nous-a-completer-la-carte-de-france-des-commerces-franchises/
+translator: Christine Karch
+---
 
 Ein Appell an alle jetzt mitzumachen: An alle Mitbürger, Verwaltungen, Gesellschaften, Körperschaften, öffentlichen und privaten Akteure, an alle von der aktuellen Covid19-Krise Betroffene: teilen Sie Ihr Wissen und Ihre Daten.
 
@@ -12,14 +17,14 @@ Als Anwohner können Sie [direkt auf der Karte](https://www.bleibtoffen.org/) di
 
 Wenn Sie auf einen Ort auf der Karte klicken, können Sie über die Schaltfläche "ÄNDERUNG MELDEN" angeben, ob das Geschäft offen oder geschlossen ist. Genauso können Sie auch die während der Covid19-Krise geltenden vorübergehenden Öffnungszeiten und andere nützliche Informationen (z.B. Kontaktdaten) hinzufügen.
 
-![Screenshot](screenshot.png)
+![Screenshot](/assets/images/aufruf-zur-mitarbeit/screenshot.png)
 
 Fehlt zum Beispiel der Standort eines Geschäfts, kann das verschiedene Gründe haben:
 
 * Es ist ein Geschäft, das gemäß der gesetzlichen Bestimmungen derzeit nicht geöffnet haben darf. Dann ist es richtig, dass man das Geschäft nicht auf der Karte sieht.
-* Es sollte auf der Karte vorhanden sein, es fehlt allerdings in OpenStreetMap. Das können Sie selbst in die Hand nehmen: es ist kostenlos, dauert weniger als 5 Minuten und erfordert nur das Einrichten eines OpenStreetMap-Kontos. Wir haben eine kleine [Anleitung](../geschaeft-fehlt/index.html) verfasst, die hierbei helfen soll.
+* Es sollte auf der Karte vorhanden sein, es fehlt allerdings in OpenStreetMap. Das können Sie selbst in die Hand nehmen: es ist kostenlos, dauert weniger als 5 Minuten und erfordert nur das Einrichten eines OpenStreetMap-Kontos. Wir haben eine kleine [Anleitung]({% post_url 2020-04-10-geschaeft-fehlt %}) verfasst, die hierbei helfen soll.
 
-Wenn Sie bereits bei OpenStreetMap dabei sind, finden Sie im OpenStreetMap Wiki weitere, nützliche Informationen. Im Forum können Sie auch Fragen stellen und diskutieren.</p>
+Wenn Sie bereits bei OpenStreetMap dabei sind, finden Sie im OpenStreetMap Wiki weitere, nützliche Informationen. Im Forum können Sie auch Fragen stellen und diskutieren.
 
 * [OpenstreetMap Wiki](https://wiki.openstreetmap.org/wiki/Key:opening_hours:covid19)
 * [Diskussionsforum](https://forum.openstreetmap.org/viewforum.php?id=14)
