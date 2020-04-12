@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1. Pressemitteilung: „Bleibt offen“ Karte der Geschäfte, die weiterhin geöffnet sind
+title: '1. Pressemitteilung: „Bleibt offen“ Karte der Geschäfte, die weiterhin geöffnet sind'
 author: Claas Augner
 en: /2020/04/12/press-release.html
 fr: /2020/04/12/communique-de-presse.html
