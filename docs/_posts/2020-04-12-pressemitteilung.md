@@ -6,7 +6,7 @@ en: /2020/04/12/press-release.html
 fr: /2020/04/12/communique-de-presse.html
 ---
 
-„Bleibt offen“ ist das unverzichtbare Hilfsmittel, um unnötiges herumreisen zu vermeiden und so die Ansteckungsgefahr zu minimieren. Diese kolaborative Karte erlaubt es jedem, sich einfach offene oder geschlossene Geschäfte anzeigen zu lassen oder sogar selber fehlende Daten zu ergänzen.
+„Bleibt offen“ ist ein unverzichtbares Werkzeug, um unnötige Wege zu geschlossenen Geschäften zu vermeiden und so die Ansteckungsgefahr zu minimieren. Diese gemeinschaftlich erstellte Karte erlaubt es jedem, offene Geschäfte zu finden und Infos über geöffnete Orte mit wenigen Klicks zu teilen.
 
 Hat die Bäckerei um die Ecke noch geöffnet? Bietet mein Lieblingsrestaurant auch Abholung an? Und bis wann hat der Supermarkt noch auf? All das sind Fragen, die sich viele Menschen stellen in Zeiten von Kontaktverboten und Ausgangsbeschränkungen. Die OpenStreetMap-Karte des ehrenamtlichen Gemeinschaftsprojekts „Bleibt offen“ hat die Lösung parat. Das Ziel: Unnötige Wege sparen und so das Risiko einer Ansteckung mit dem Coronavirus reduzieren.
 
