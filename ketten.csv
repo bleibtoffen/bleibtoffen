@@ -1,36 +1,34 @@
 country,category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_url,opening_hours_url
-AT,bakery,Anker,Q557116,,,,,
-AT,bakery,Ströck,Q2357607,,,,,
-AT,bank,Bank Austria,Q697619,,,,,
-AT,bank,BAWAG PSK,Q379938,,,,,
-AT,bank,Erste Bank,Q696867,,,,,
-AT,bank,Oberbank,Q2009139,,,,,
-AT,bank,Raiffeisenbank,Q24282825,,,,,
-AT,bank,Sparkasse,,,,,,
-AT,bank,Volksbank,Q695110,,,,,
-AT,car_repair,ARBÖ,Q784673,,,,,
-AT,car_repair,ÖAMTC,Q306057,,,,,
-AT,chemist,dm,Q266572,,,,,
-AT,doityourself,Lagerhaus,Q10553211,,,,,
-AT,fastfood,McDonald's,Q38076,,,,,
-AT,fuel,Avanti,Q168238,,,,,
-AT,fuel,BP,Q152057,,,,,
-AT,fuel,Eni,Q565594,,,,,
-AT,fuel,Jet,Q568940,,,,,
-AT,fuel,OMV,Q168238,,,,,
-AT,fuel,Shell,Q154950,,,,,
-AT,fuel,Turmöl,Q1473279,,,,,
-AT,pet,Fressnapf,Q875796,,,,,
-AT,post_office,Österreichische Post AG,Q1763505,,,,,
-AT,supermarket,Billa,Q537781,,,,,
-AT,supermarket,Bipa,Q864933,,,,,
-AT,supermarket,Eurospar,Q12309283,,,,,
-AT,supermarket,Hofer,Q15815751,,,,,
-AT,supermarket,Lidl,Q151954,,,,,
-AT,supermarket,Merkur,Q1921857,,,,,
-AT,supermarket,MPREIS,Q873491,,,,,
-AT,supermarket,Penny,Q284688,,,,,
-AT,supermarket,Spar,Q610492,,,,,
+AT,bakery,Anker,Q557116,partial,,,https://www.ankerbrot.at/,https://www.ankerbrot.at/filialen
+AT,bakery,Ströck,Q2357607,open_adapted,,,https://stroeck.at/aktionen/aktuelles/massnahmen_coronavirus,https://stroeck.at/de/filialen
+AT,bank,Bank Austria,Q697619,partial,,Physische Beratung nur an Hochfrequenzstandorten und Flagship-Filialen.,https://www.bankaustria.at/aktuelle-hinweise.jsp?ucid=INT-8351-Wichtige_Mitteilung-Website,https://filialen.bankaustria.at/de/
+AT,bank,BAWAG PSK,Q379938,open_adapted,,Nur dringend notwendige Besuche.,https://www.bawagpsk.com/BAWAGPSK/PK/services/aktuelles/498332/warnung--coronavirus.html,https://www.bawagpsk.com/BAWAGPSK/PK/filialsuche/269546/filialsuche.html
+AT,bank,Erste Bank,Q696867,open_adapted,,Nur in besonderes dringenden Fällen. Für Risikogruppen: Mo-Fr 09:00-10:00 Uhr.,https://www.sparkasse.at/erstebank/kundeninformation-coronavirus,https://www.sparkasse.at/erstebank/filialen-oeffungszeiten
+AT,bank,Oberbank,Q2009139,open,,,https://www.oberbank.at/coronavirus_information_15032020,https://www.oberbank.at/filialfinder
+AT,bank,Raiffeisenbank,Q24282825,open_adapted,,,https://www.raiffeisen.at/de/meine-bank/kundenservice/kundeninformation-covid-19.html,https://www.raiffeisen.at/de/meine-bank/raiffeisen-bankengruppe/raiffeisenbanken.html
+AT,bank,Volksbank,Q695110,open,,,https://www.volksbank.at/m101/volksbank/de/individuelle_seite/volksbank_gruppe/covid_19.jsp,https://www.volksbank.at/filialfinder
+AT,car_repair,ARBÖ,Q784673,open_adapted,,,https://www.arboe.at/infos/corona/,https://www.arboe.at/infos/corona/sonderoeffnungszeiten-der-arboe-pruefzentren/
+AT,car_repair,ÖAMTC,Q306057,partial,,,https://www.oeamtc.at/nothilfe/corona-nothilfe-gesichert-36945135,https://www.oeamtc.at/nothilfe/corona-nothilfe-gesichert-36945135#oeamtc-standorte-36945188
+AT,chemist,Bipa,Q864933,open_adapted,,,https://www.bipa.at/bipa/fuersieda.html,https://www.bipa.at/filialen
+AT,chemist,dm,Q266572,open_adapted,,,https://www.dm-drogeriemarkt.at/wirgebenaufeinanderacht-139444,https://www.dm-drogeriemarkt.at/store
+AT,doityourself,Lagerhaus,Q10553211,open_adapted,,,https://www.lagerhaus.at/sortiment/a/nahversorger-bleiben-geoffnet,https://www.lagerhaus.at/standortsuche
+AT,fastfood,McDonald's,Q38076,closed,,,https://www.mcdonalds.at/restaurant-finder,https://www.mcdonalds.at/restaurant-finder
+AT,fuel,Avanti,Q168238,open_adapted,,,https://www.avanti.at/de-at/einfach-/fuer-sie-da,https://www.avanti.at/services/downloads/00/avanti.at/1522183760982/dload_Liste%20Standorte%20inklusive%20%C3%96ffnungszeiten_Avanti%20AT
+AT,fuel,BP,Q152057,open_adapted,,BP car wash geschlossen.,https://www.bp.com/de_at/austria/home/produkte-und-services/wir-sind-fuer-sie-da.html,https://www.bp.com/de_at/austria/home/produkte-und-services/bp-in-ihrer-naehe.html
+AT,fuel,Eni,Q565594,open_adapted,,,,http://travel.eni.com/iveportal/stations/stationfinder.do?locale=de_AT
+AT,fuel,Jet,Q568940,open_adapted,Mo-Fr 06:00-20:00; Sa-So 07:00-20:00; PH 07:00-20:00,,https://www.jet-tankstellen.at/,https://www.jet-tankstellen.at/
+AT,fuel,Shell,Q154950,open_adapted,,,https://www.shell.at/covid19.html,https://www.shell.at/promos/motorists-promos/petrol-station-search.html
+AT,fuel,Turmöl,Q1473279,open_adapted,,,https://turmöl.at/tanken,https://xn--turml-mua.at/wp-content/uploads/2020/04/20200410-%C3%96ffnungszeiten-Tankstellen.pdf
+AT,pet,Fressnapf,Q875796,open_adapted,Mo-Fr 09:00-18:00; Sa 09:00-16:00,,https://www.fressnapf.at/corona,https://www.fressnapf.at/storefinder
+AT,post_office,Österreichische Post AG,Q1763505,open,,,https://www.post.at/p/c/corona,https://www.post.at/sf/standortfinder
+AT,supermarket,Billa,Q537781,open_adapted,Mo-Fr 07:40-19:00; Sa 07:40-18:00,,https://www.billa.at/filialfinder,https://www.billa.at/filialen
+AT,supermarket,Eurospar,Q12309283,open_adapted,,,https://www.spar.at/standorte,https://www.spar.at/standorte
+AT,supermarket,Hofer,Q15815751,open_adapted,Mo-Sa 07:40-18:00,Risikogruppen von 08:00-09:00 Uhr.,https://www.hofer.at/de/informationen/aktuelle-informationen.html,https://www.hofer.at/de/filialen.html
+AT,supermarket,Lidl,Q151954,open_adapted,Mo-Fr 07:40-19:00; Sa 07:40-18:00,,https://www.lidl.at/info/filialsuche-oeffnungszeiten,https://www.lidl.at/info/filialsuche-oeffnungszeiten
+AT,supermarket,Merkur,Q1921857,open_adapted,Mo-Fr 07:40-19:00; Sa 07:40-18:00,,https://www.merkurmarkt.at/p/corona-virus,https://www.merkurmarkt.at/marktplatz/ihr-einkauf/maerkte-und-oeffnungszeiten
+AT,supermarket,MPREIS,Q873491,open_adapted,Mo-Fr 07:40-19:00; Sa 07:40-18:00,,https://www.mpreis.at/informationen-zur-aktuellen-lage,https://www.mpreis.at/sp/standorte
+AT,supermarket,Penny,Q284688,open_adapted,Mo-Fr 07:40-19:00; Sa 07:40-18:00,,https://www.penny.at/campaigns/gemeinsamschaffenwirdas,https://www.penny.at/my-stores
+AT,supermarket,Spar,Q610492,open,,,https://presse.spar.at/news-spar-maerkte-haben-geoeffnet-lebensmittel-werden-laufend-nachgeliefert?id=103272&menueid=21125&l=deutsch,https://www.spar.at/standorte
 CH,bakery,Brezelkönig,,open,,,,https://brezelkoenig.ch/de/standorte/?Format=11
 CH,bakery,Frei,,open,,,https://www.baeckerei-frei.ch,https://www.baeckerei-frei.ch/de-ch/filialen-standorte-cafe.html
 CH,bakery,Hausammann Zopfbeck,,open,,,http://www.zopfbeck.ch/,http://www.zopfbeck.ch/
