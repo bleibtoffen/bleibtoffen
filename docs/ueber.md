@@ -15,7 +15,7 @@ _Wir arbeiten täglich und mit höchster Priorität an diesem Werkzeug. Und täg
 
 ### Kontakt
 
-* Twitter: [@bleibtoffen](https://twitter.com/bleibtoffen)
+* Twitter: [@bleibtoffen_org](https://twitter.com/bleibtoffen_org)
 * Facebook: [bleibtoffen](https://www.facebook.com/bleibtoffen)
 
 Weitere Informationen findest du [auf unserem Blog]({% link blog.html %}).

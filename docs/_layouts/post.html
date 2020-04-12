@@ -6,7 +6,20 @@ layout: default
     {% if page.date %}
     <tr>
         <th>Veröffentlicht:</th>
-        <td>{{ page.date | date_to_string }}</td>
+        <td>
+            {{ page.date | date_to_string }}
+            {% if page.de %}
+                / <a href="{{ page.de }}">Deutsche Fassung</a>
+            {% endif %}
+        
+            {% if page.en %}
+                / <a href="{{ page.en }}">English version</a>
+            {% endif %}
+        
+            {% if page.fr %}
+                / <a href="{{ page.fr }}">Version française</a>
+            {% endif %}
+        </td>
     </tr>
     {% endif %}
 
