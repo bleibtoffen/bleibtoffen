@@ -25,7 +25,7 @@ Das ehrenamtliche Team besteht aus sechs Aktiven aus der Community von OpenStree
 **Ansprechpartner**
 
 * Claas Augner – [bleibtoffen@caugner.de](mailto:bleibtoffen@caugner.de)
-* *für die Schweiz*: Stefan Keller – [stefan.keller@sosm.ch](mailto:stefan.keller@sosm.ch)
+* *für die Schweiz (Deutsch, Englisch)*: Stefan Keller – [stefan.keller@sosm.ch](mailto:stefan.keller@sosm.ch)
 
 ## Pressemitteilungen
 
