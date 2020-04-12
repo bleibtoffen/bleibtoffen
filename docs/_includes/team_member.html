@@ -8,7 +8,7 @@
 <div>
     <strong>{{ user.name }}</strong>
     <br />
-    <em>{{ user.description }}</em>
+    <em>{{ user.description | markdownify }}</em>
 </div>
 
 {% if user.website %}
