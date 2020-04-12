@@ -22,7 +22,7 @@ Hinter dem deutschen Ableger verbirgt sich ein ehrenamtliches Team aus aktiven O
 
 Kontakt:
 * Claas Augner – bleibtoffen@caugner.de
-* Für die Schweiz: Stefan Keller - stefan.keller@sosm.ch
+* Für die Schweiz: Stefan Keller (Deutsch, Englisch) - stefan.keller@sosm.ch
 
 Links:
 * Bleibt offen: [www.bleibtoffen.org](https://www.bleibtoffen.org/)
