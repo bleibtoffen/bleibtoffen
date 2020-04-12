@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1. Pressemitteilung: „Bleibt offen“ startet in Deutschland, Schweiz und Österreich – die gemeinschaftliche Karte aller Geschäfte, die weiterhin geöffnet sind'
+title: '1. Pressemitteilung: „Bleibt offen“ Karte der Geschäfte, die weiterhin geöffnet sind
 author: Claas Augner
 en: /2020/04/12/press-release.html
 fr: /2020/04/12/communique-de-presse.html
@@ -18,6 +18,10 @@ Hinter dem deutschen Ableger verbirgt sich ein ehrenamtliches Team aus aktiven O
 
 „Bleibt offen“ ist schon heute in Deutschland (www.bleibtoffen.de), der Schweiz (www.bleibtoffen.ch) und Österreich (www.bleibtoffen.at) verfügbar. Richtig los geht es erwartungsgemäß jedoch erst nach dem Osterwochenende, wenn die Geschäfte wieder öffnen. Welche das sind, sehen wir dann bei „Bleibt offen“…
 
+Kontakt:
+* Claas Augner – bleibtoffen@caugner.de
+* Für die Schweiz: Stefan Keller - stefan.keller@sosm.ch
+
 Links:
 * Bleibt offen: [www.bleibtoffen.org](https://www.bleibtoffen.org/)
 * Bleibt offen Deutschland: [www.bleibtoffen.de](https://www.bleibtoffen.de/)
@@ -27,8 +31,9 @@ Links:
 * Bleibt offen auf Twitter: [twitter.com/bleibtoffen_org](https://www.twitter.com/bleibtoffen_org)
 * OpenStreetMap: [www.openstreetmap.org](https://www.openstreetmap.org/)
 * OpenStreetMap Deutschland: [www.openstreetmap.de](https://www.openstreetmap.de/)
-* OpenStreetMap Switzerland: [www.osm.ch](https://www.osm.ch/)
+* OpenStreetMap Schweiz: [www.osm.ch](https://www.osm.ch/)
 * OpenStreetMap Österreich: [www.openstreetmap.at](https://www.openstreetmap.at/)
 * Ça reste ouvert: [www.caresteouvert.fr](https://www.caresteouvert.fr/)
 * Geofabrik: [www.geofabrik.de](https://www.geofabrik.de/)
 * FOSSGIS: [fossgis.de](https://fossgis.de/)
+* Swiss OpenStreetMap Association [sosm.ch](https://sosm.ch/)
