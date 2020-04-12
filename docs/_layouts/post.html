@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<table class="table table-sm table-borderless table-responsive m-4">
+    {% if page.date %}
+    <tr>
+        <th>Veröffentlicht:</th>
+        <td>{{ page.date | date_to_string }}</td>
+    </tr>
+    {% endif %}
+
+    {% if page.author %}
+    <tr>
+        <th>Verfasst von:</th>
+        <td>{{ page.author }}</td></tr>
+    {% endif %}
+
+    {% if page.translator %}
+    <tr>
+        <th>Übersetzung:</th>
+        <td>{{ page.translator }}</td>
+    </tr>
+    {% endif %}
+
+    {% if page.source %}
+    <tr>
+        <th>Original:</td>
+        <td><a href="{{ page.source }}">{{ page.source }}</a></td>
+    </tr>
+    {% endif %}
+</table>
+
+
+{{ content }}

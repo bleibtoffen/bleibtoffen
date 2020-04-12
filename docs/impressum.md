@@ -1,21 +1,25 @@
-# Rechtlichliche Hinweise
+---
+layout: post
+title: Impressum
+source: https://blog.caresteouvert.fr/mentions-legales/
+---
 
-## Die Website Bleibt Offen
+## Die Website „Bleibt offen“
 
-Der Kartenteil der Website "Bleibt Offen" besteht aus folgenden Komponenten:
-
-
-* http://bleibtoffen.de für Deutschland und gehört dem FOSSGIS e.V.
-* http://bleibtoffen.ch für die Schweiz und gehört der SOSM
-* http://bleibtoffen.at für Österreich und gehört der SOSM
+Der Kartenteil der Website „Bleibt offen“ besteht aus folgenden Komponenten:
 
 
-Daneben gibt es einen Blog, der unter der URL http://blog.bleibtoffen.org erreichbar ist.
+* https://www.bleibtoffen.de für Deutschland und gehört dem FOSSGIS e.V.
+* https://www.bleibtoffen.ch für die Schweiz und gehört der SOSM
+* https://www.bleibtoffen.at für Österreich und gehört der SOSM
+
+
+Daneben gibt es einen Blog, der unter der URL https://www.bleibtoffen.org/ erreichbar ist.
 
 Die Domänen bleibtoffen.ch, bleibtoffen.at und bleibtoffen.org gehören der [Swiss OpenStreetMap Association](https://sosm.ch/)
 Die Domäne bleibtoffen.de gehört dem [Fossgis e.V.](https://www.fossgis.de/verein/).
 
-Sie sind der deutschsprachige Ableger der Webseite [Ça reste ouvert](http://carestouvert.fr)
+Sie sind der deutschsprachige Ableger der Webseite [Ça reste ouvert](https://www.carestouvert.fr)
 
 Die Website gehört der Gesellschaft JUNGLE BUS, Société par actions simplifiée, 
 mit einem Aktienkapital von 1.000 Euro, die im Handels- und Gesellschaftsregister Nanterre unter der Nummer 849 018 866 eingetragen ist 
@@ -25,9 +29,9 @@ Herr Florian Lainez ist hierfür verantwortlich und kann unter folgender E-Mail-
 
 Die Website wird von dem in Frankreich ansässigen Unternehmen Scalingo gehostet, das Schutzklauseln in Übereinstimmung mit dem DSGVO anbietet.
 
-## Die allgemeinen Nutzungsbedingungen der Website Bleibt Offen
+## Die allgemeinen Nutzungsbedingungen der Website „Bleibt offen“
 
-Die Nutzung der Website Bleibt Offen setzt die vollständige und uneingeschränkte Annahme 
+Die Nutzung der Website „Bleibt offen“ setzt die vollständige und uneingeschränkte Annahme 
 der nachstehend beschriebenen allgemeinen Nutzungsbedingungen voraus. 
 
 Diese Nutzungsbedingungen können von JUNGLE BUS jederzeit geändert oder ergänzt werden. 
@@ -83,10 +87,10 @@ um seine eigenen Daten und/oder Software vor der Kontamination durch im Internet
 
 ## Cookies
 
-Wenn Sie auf der Website "Bleibt Offen" surfen, werden Cookies auf Ihrem Browser abgelegt. 
+Wenn Sie auf der Website „Bleibt offen“ surfen, werden Cookies auf Ihrem Browser abgelegt. 
 Für einige von ihnen ist Ihre Zustimmung erforderlich.
 
-Diese Cookies ermöglichen es, anonyme Nutzungsstatistiken für die Website "Bleibt Offen" zu generieren, 
+Diese Cookies ermöglichen es, anonyme Nutzungsstatistiken für die Website „Bleibt offen“ zu generieren, 
 um deren Ergonomie, Navigation und Inhalt zu optimieren. 
 Wenn Sie diese Cookies deaktivieren, können wir die Nutzung auf der Website nicht analysieren.
 
@@ -111,6 +115,3 @@ Die auf der Website wiedergegebenen Fotografien haben einen rein illustrativen W
 Der vorliegende Rechtliche Hinweis unterliegt dem französischen Recht.
 Im Falle eines Rechtsstreits bezüglich der Auslegung oder Ausführung des vorliegenden Dokuments zwischen JUNGLE BUS 
 und einem Benutzer sind ausschließlich die Gerichte von Paris zuständig.
-
-
-

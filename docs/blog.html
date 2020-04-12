@@ -1,0 +1,13 @@
+---
+title: Blog
+---
+
+<div class="list-group">
+  {% for post in site.posts %}
+    <a class="list-group-item list-group-item-action" href="{{ post.url }}">
+      <span class="badge badge-secondary badge-pill float-right">{{ post.date | date_to_string }}</span>
+      <strong class="text-primary">{{ post.title }}</strong>
+      <p>{{ post.excerpt }}</p>
+    </a> 
+  {% endfor %}
+</ul>

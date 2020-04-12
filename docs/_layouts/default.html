@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    {% if page.title %}
+    <title>{{ page.title }} | Bleibt offen</title>
+    {% else %}
+    <title>Bleibt offen – Apotheke, Bäckerei &amp; Co.</title>
+    {% endif %}
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
+    <meta name="description" content="Gemeinschaftliche Karte aller Geschäfte, die weiterhin geöffnet sind. Suche &amp; melde offene Geschäfte in deiner Umgebung!" />
+    <meta name="keywords" content="Bleibt offen, Ausgangsbeschränkung, Ausgangssperre, Kontaktsperre, Geschäfte, Dienstleistungen, Lieferung, Abholung, Öffnungszeiten" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:site" content="@bleibtoffen" />
+    <meta property="twitter:title" content="Bleibt offen – Apotheke, Bäckerei &amp; Co." />
+    <meta property="twitter:description" content="Gemeinschaftliche Karte aller Geschäfte, die weiterhin geöffnet sind. Suche &amp; melde offene Geschäfte in deiner Umgebung!" />
+    <meta property="twitter:image" content="https://www.bleibtoffen.org/assets/images/opengraph.jpg" />
+    <meta property="og:url" content="https://www.bleibtoffen.org/" />
+    <meta property="og:site_name" content="Bleibt offen" />
+    <meta property="og:title" content="Bleibt offen – Alle Geschäfte, die weiterhin geöffnet sind." />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Gemeinschaftliche Karte aller Geschäfte, die weiterhin geöffnet sind. Suche &amp; melde offene Geschäfte in deiner Umgebung!" />
+    <meta property="og:image" content="https://www.bleibtoffen.org/assets/images/opengraph.jpg" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+</head>
+<body>
+
+   <div class="container">
+     <div class="text-center m-4">
+        <p><img alt="Bleibt offen" src="/assets/images/logo.png" style="max-width: 75%" /></p>
+        <p class="text-muted">Alle Geschäfte, die weiterhin geöffnet sind.</p>
+     </div>
+
+     {% include navigation.html %}
+
+    <h1 class="my-4">{{ page.title }}</h1>
+     {{ content }}
+   </div>
+
+</body>
+</html>

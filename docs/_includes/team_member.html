@@ -1,0 +1,24 @@
+<div class="clearfix">
+{% if user.image %}
+<div class="float-right">
+<img alt="Bild: {{ user.name }}" class="rounded-circle" src="{{ user.image }}" height="128" width="auto" />
+</div>
+{% endif %}
+
+<div>
+    <strong>{{ user.name }}</strong>
+    <br />
+    <em>{{ user.description }}</em>
+</div>
+
+{% if user.website %}
+<br />Webseite: <a href="{{ user.website }}">{{ user.website }}</a>
+{% endif %}
+{% if user.linkedin %}
+<br />LinkedIn: <a href="https://www.linkedin.com/in/{{ user.linkedin }}">{{ user.linkedin }}</a>
+{% endif %}
+{% if user.twitter %}
+<br />Twitter: <a href="https://twitter.com/{{ user.twitter }}">@{{ user.twitter }}</a>
+{% endif %}
+
+</div>

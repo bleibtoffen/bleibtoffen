@@ -41,6 +41,11 @@ CH,doityourself,Hornbach,Q685926,partial,,,https://www.hornbach.ch/aktuelles/akt
 CH,doityourself,Jumbo,,partial,,,https://www.jumbo.ch/de/coronavirus-info,https://www.jumbo.ch/de
 CH,doityourself,Landi,Q1803010,partial,,,https://www.landi.ch/laden/service/Haeufig-gestellte-Fragen-FAQ,https://www.landi.ch/places/de
 CH,doityourself,OBI,Q300518,partial,,,,https://www.obi.ch/
+CH,electronics,Inter Discount,,closed,,,https://www.interdiscount.ch/de,
+CH,electronics,melectronics,,closed,,,https://www.melectronics.ch/de,
+CH,fuel,Socar,Q1622293,open,,,https://www.socarenergy.ch/,https://www.socarenergy.ch/tankstellen/tankstellen-finder/
+CH,fuel,Shell,Q154950,open,,,,
+CH,kiosk,k kiosk,Q60381703,partial,,,https://www.kkiosk.ch/de/allover/standortsuche/,https://www.kkiosk.ch/de/allover/standortsuche/
 CH,optician,Fielmann,Q457822,partial,,nur Notfälle,https://www.fielmann.ch,https://www.fielmann.ch/de/niederlassungen/
 CH,optician,Visilab,Q2528307,closed,,Hotline für Notfälle,https://www.visilab.ch,https://www.visilab.ch/de/faq/info/
 CH,post,Post,Q614803,open,,Nur postalische Produkte und Dienstleistungen,https://www.post.ch/de/pages/corona/anpassungen-im-angebot,https://www.post.ch/de/pages/corona/anpassungen-im-angebot
@@ -50,6 +55,7 @@ CH,supermarket,Denner,Q379911,open,,,,https://www.denner.ch/de/filialen/
 CH,supermarket,LIDL,Q151954,open,,,,https://www.lidl.ch/unternehmen/filialen-oeffnungszeiten/filialfinder
 CH,supermarket,Manor,,partial,,,https://www.manor.ch/de/u/manor-info-covid19,https://www.manor.ch/de/store-finder
 CH,supermarket,Migros,Q680727,open,,,,https://filialen.migros.ch/de
+CH,supermarket,Migrolino,Q56745088,open,,,https://www.migrolino.ch/de/,https://www.migrolino.ch/de/migrolino-standorte/
 CH,supermarket,SPAR,Q610492,open,,,,https://www.spar.ch/spar-maerkte/#?s=1
 CH,supermarket,Volg,Q2530746,open,,,,https://www.volg.ch/standorte-oeffnungszeiten/
 DE,bakery,Back-Factory,Q21200483,closed,,,https://www.back-factory.de/wir-sind-bald-wieder-da/wir-sind-bald-wieder-da.html,

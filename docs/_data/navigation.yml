@@ -1,0 +1,8 @@
+- name: Karte
+  link: /
+- name: Blog
+  link: /blog.html
+- name: Über
+  link: /ueber.html
+- name: Impressum
+  link: /impressum.html
