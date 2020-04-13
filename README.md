@@ -43,6 +43,7 @@ Die CSV-Datei besteht aus 9 Spalten:
 | `brand_name` | Name der Handelskette. Beispiel: `ALDI` |
 | `wikidata_id` | Wikidata-ID der Handelskette. Beispiel: `Q125054` für [ALDI](https://www.wikidata.org/wiki/Q125054)
 | `opening_rule` | Regel auf Englisch. Werte: `open` (offen, reguläre Öffnungszeiten), `open_adapted` (offen, abweichende Öffnungszeiten), `partial` (teilweise offen) oder `closed` (geschlossen) |
+| `osm_additional_tags` | Zusätzliche Tags im JSON-Format (Escaping beachten!). Beispiel: `{"delivery:covid19": "only", "takeawy:covid19": "only"}` wird zu `"{""delivery:covid19"": ""only"", ""takeaway:covid19"": ""only""}"`
 | `opening_hours` | Öffnungszeiten für alle Orte der Kette (falls zutreffend). Format siehe OSM-Wiki: [https://wiki.openstreetmap.org/wiki/DE:Key:opening_hours:covid19](opening_hours:covid19) |
 | `description` | Beschreibung auf Deutsch. Beispiele: `Termin erforderlich.`, `Nur Post-Dienstleistungen.` oder `Nur telefonisch.` |
 | `source_url` | URL der Webseite, von der die Information stammt. Beispiel: `https://www.tegut.com/newsticker-corona` |
