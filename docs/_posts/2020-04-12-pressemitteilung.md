@@ -20,9 +20,7 @@ Hinter dem deutschen Ableger verbirgt sich ein ehrenamtliches Team aus aktiven O
 
 „Bleibt offen“ ist schon heute in Deutschland (www.bleibtoffen.de), der Schweiz (www.bleibtoffen.ch) und Österreich (www.bleibtoffen.at) verfügbar. Richtig los geht es erwartungsgemäß jedoch erst nach dem Osterwochenende, wenn die Geschäfte wieder öffnen. Welche das sind, sehen wir dann bei „Bleibt offen“…
 
-Kontakt:
-* Claas Augner – bleibtoffen@caugner.de
-* Für die Schweiz: Stefan Keller (Deutsch, Englisch) - stefan.keller@sosm.ch
+{% include pressekontakt.html %}
 
 Links:
 * Bleibt offen: [www.bleibtoffen.org](https://www.bleibtoffen.org/)

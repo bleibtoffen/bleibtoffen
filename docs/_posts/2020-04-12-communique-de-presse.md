@@ -19,6 +19,8 @@ Derrière la branche allemande se trouve une équipe bénévoles de contribuers 
 
 "Bleibt offen" est déjà disponible en Allemagne (www.bleibtoffen.de), en Suisse (www.bleibtoffen.ch) et en Autriche (www.bleibtoffen.at). L'activité ne commencera vraiment qu'après le week-end de Pâques, lorsque les magasins ouvriront à nouveau. Lesquels sont ouverts, nous verrons sur "Bleibt offen"...
 
+{% include pressekontakt.html %}
+
 Liens :
 * Bleibt offen : [www.bleibtoffen.org](https://www.bleibtoffen.org/)
 * Bleibt offen Allemagne : [www.bleibtoffen.de](https://www.bleibtoffen.de/)

@@ -19,6 +19,8 @@ Behind the German branch is a voluntary team of active OpenStreetMappers. Claas 
 
 "Bleibt offen" is already available in Germany (www.bleibtoffen.de), Switzerland (www.bleibtoffen.ch) and Austria (www.bleibtoffen.at). The activity will start after the Easter weekend, when the shops open again. Which ones are open, we'll see on "Bleibt offen"...
 
+{% include pressekontakt.html %}
+
 Links:
 * Bleibt offen: [www.bleibtoffen.org](https://www.bleibtoffen.org/)
 * Bleibt offen Germany: [www.bleibtoffen.de](https://www.bleibtoffen.de/)

@@ -21,11 +21,7 @@ Ab dem 1. April haben sich Freiwillige aus Deutschland und der Schweiz vernetzt,
 
 Das ehrenamtliche Team besteht aus sechs Aktiven aus der Community von OpenStreetMap, einer freien und gemeinschaftlich erstellten Weltkarte, deren Daten lizenzkostenfrei eingesetzt werden darf und die Grundlage von „Bleibt offen“ bilden. Alle Informationen, die im Rahmen des Projekts geteilt werden, werden im Rahmen des OpenStreetMap-Projekts verfügbar gemacht.
 
-
-**Ansprechpartner**
-
-* Claas Augner – [bleibtoffen@caugner.de](mailto:bleibtoffen@caugner.de)
-* *für die Schweiz (Deutsch, Englisch)*: Stefan Keller – [stefan.keller@sosm.ch](mailto:stefan.keller@sosm.ch)
+{% include pressekontakt.html %}
 
 ## Pressemitteilungen
 
