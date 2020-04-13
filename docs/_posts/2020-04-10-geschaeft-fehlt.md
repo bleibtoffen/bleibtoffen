@@ -7,7 +7,7 @@ translator: Christine Karch
 
 _Euer Bäcker oder die Apotheke um die Ecke sind nicht auf „Bleibt offen“? Keine Grund zur Sorge! Es ist nicht schwer unsere gemeinsame Karte, die die trotz Covid19-Lockdown noch geöffneten Geschäfte anzeigt, zu verbessern. Wir haben eine kleine Anleitung vorbereitet._
 
-**Bleibt offen** verwendet Daten von OpenStreetMap (OSM). OSM ist die Wikipedia der Kartographie: eine weltweite Karte, die ihr mit eurem lokalen Wissen anreichern könnt. Und genau das werden wir machen: wir werden die OSM Datenbank mit den fehlenden Geschäften anreichern und somit die OSM-Karte verbessern. Falls das zu kompliziert ist, kann auch alternativ [osmybiz.osm.ch](https://osmybiz.osm.ch) verwendet werden, um ein Geschäft einzutragen.
+**Bleibt offen** verwendet Daten von OpenStreetMap (OSM). OSM ist die Wikipedia der Kartographie: eine weltweite Karte, die ihr mit eurem lokalen Wissen anreichern könnt. Und genau das werden wir machen: wir werden die OSM Datenbank mit den fehlenden Geschäften anreichern und somit die OSM-Karte verbessern. Alternativ kann auch [osmybiz.osm.ch](https://osmybiz.osm.ch) verwendet werden, um ein Geschäft einzutragen.
 
 ![logo](/assets/images/logo-alternativ.png)
 
