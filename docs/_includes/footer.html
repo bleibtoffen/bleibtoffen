@@ -1,3 +1,14 @@
-{% if site.github.repository_url %}
-<div class="text-muted text-right"><a href="{{site.github.repository_url}}/blob/docs/{{page.path}}">Seite bearbeiten</a></div>
-{% endif %}
+
+<footer class="footer mt-4 py-3">
+    <div class="container">
+        <div class="small float-right">
+            <a href="https://github.com/{{ site.github.repository_url }}/edit/master/docs/{{ page.path }}">Seite bearbeiten</a>
+        </div>
+
+        {% for item in site.data.footer %}
+        <a class="mx-2" href="{{ item.link }}">{{ item.name }}</a>
+        {% endfor %}
+    </div>
+
+
+</footer>
