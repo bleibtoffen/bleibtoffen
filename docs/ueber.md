@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Eine gemeinsame gestaltete Karte mit geöffneten Geschäften während der Covid-19-Krise
+title: Hintergrund
 source: https://blog.caresteouvert.fr/about/
 ---
+
+## Eine Karte mit den geöffneten Geschäften während der Covid-19-Krise
 
 „Bleibt offen“ ist während der Zeit der Ausgangsbeschränkungen ein nützliches Hilfsmittel, erfolglose Fahrten zu vermeiden und damit das Ansteckungsrisiko zu vermindern.
 
