@@ -36,6 +36,7 @@ Source: https://corona.karlsruhe.de/content/downloads/200328_CoronaVO_Konsolidie
 - Restaurants (Liefer- und Abholservice aber erlaubt) :arrow_right: `amenity=restaurant` except `pickup=yes` and/or `delivery=yes`
 - Fahrradläden (`shop=bicycle`) (Werkstatt teilweise geöffnet)
 - Shisha-Bars (`amenity=bar`)
+- Möbelläden (`shop=furniture`)
 </details>
 
 ### Bayern

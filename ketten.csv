@@ -13,6 +13,7 @@ AT,chemist,Bipa,Q864933,open_adapted,,,,https://www.bipa.at/bipa/fuersieda.html,
 AT,chemist,dm,Q266572,open_adapted,,,,https://www.dm-drogeriemarkt.at/wirgebenaufeinanderacht-139444,https://www.dm-drogeriemarkt.at/store
 AT,doityourself,Lagerhaus,Q10553211,open_adapted,,,,https://www.lagerhaus.at/sortiment/a/nahversorger-bleiben-geoffnet,https://www.lagerhaus.at/standortsuche
 AT,fastfood,McDonald's,Q38076,closed,,,,https://www.mcdonalds.at/restaurant-finder,https://www.mcdonalds.at/restaurant-finder
+AT,furniture,XXXLutz,Q70339467,closed,,,,,https://www.xxxlutz.at/
 AT,fuel,Avanti,Q168238,open_adapted,,,,https://www.avanti.at/de-at/einfach-/fuer-sie-da,https://www.avanti.at/services/downloads/00/avanti.at/1522183760982/dload_Liste%20Standorte%20inklusive%20%C3%96ffnungszeiten_Avanti%20AT
 AT,fuel,BP,Q152057,open_adapted,,,BP car wash geschlossen.,https://www.bp.com/de_at/austria/home/produkte-und-services/wir-sind-fuer-sie-da.html,https://www.bp.com/de_at/austria/home/produkte-und-services/bp-in-ihrer-naehe.html
 AT,fuel,Eni,Q565594,open_adapted,,,,,http://travel.eni.com/iveportal/stations/stationfinder.do?locale=de_AT
@@ -97,6 +98,16 @@ CH,fuel,Migrol,Q1747771,open,,,,https://www.migrol.ch/de/mobilit%C3%A4t/,https:/
 CH,fuel,Socar,Q1622293,open,,,,https://www.socarenergy.ch/,https://www.socarenergy.ch/tankstellen/tankstellen-finder/
 CH,fuel,Shell,Q154950,open,,,,,
 CH,fuel,Tamoil,Q706793,open,,,,,https://www.tamoil.ch/de/eine-tankstelle-finden
+CH,furniture,Conforama,Q541134,closed,,,,https://www.conforama.ch/de/,https://www.conforama.ch/de/communication_speciale
+CH,furniture,Diga Möbel,,closed,,,,https://www.diga.ch/,
+CH,furniture,IKEA,Q54078,closed,,,,https://www.ikea.com/ch/de,https://www.ikea.com/ch/de/customer-service/services/delivery/click-and-collect-pub480a6d13?int_ref=click-collect-hp
+CH,furniture,Interio,Q1666105,closed,,,,https://www.interio.ch/de/cp/aktuell,https://www.interio.ch/de
+CH,furniture,Lipo,Q52337083,closed,,,,,https://www.lipo.ch/de/
+CH,furniture,Livique,Q15851221,closed,,,,https://www.livique.ch/,
+CH,furniture,Micasa,,closed,,,,https://www.micasa.ch/de/cp/aktuell,https://www.micasa.ch/de
+CH,furniture,Möbel Pfister,Q2083851,closed,,,,https://www.pfister.ch/,
+CH,furniture,Schubiger,,closed,,,,https://www.schubiger.ch/,
+CH,furniture,XXXLutz,Q70339467,closed,,,,,https://www.xxxlutz.ch/
 CH,kiosk,Avec,,partial,,,,,
 CH,kiosk,k kiosk,Q60381703,partial,,,,https://www.kkiosk.ch/de/allover/standortsuche/,https://www.kkiosk.ch/de/allover/standortsuche/
 CH,kiosk,Valora,Q60381703,partial,,,,https://www.kkiosk.ch/de/allover/standortsuche/,https://www.kkiosk.ch/de/allover/standortsuche/
