@@ -21,22 +21,10 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
 </head>
 <body>
+   {% include header.html %}
 
    <div class="container">
-     <div class="text-center m-4">
-        <p><img alt="Bleibt offen" src="/assets/images/logo.png" style="max-width: 75%" /></p>
-        <p class="text-muted">Alle Geschäfte, die weiterhin geöffnet sind.</p>
-        <p>
-         <span class="badge badge-pill badge-secondary">Open Source</span>
-         <span class="badge badge-pill badge-warning">kostenlos</span>
-         <span class="badge badge-pill badge-success">nicht-kommerziell</span>
-         <span class="badge badge-pill badge-secondary">Open Data</span>
-        </p>
-     </div>
-
-     {% include navigation.html %}
-
-    <h1 class="my-4">{{ page.title }}</h1>
+     <h1 class="my-4">{{ page.title }}</h1>
      {{ content }}
    </div>
 
