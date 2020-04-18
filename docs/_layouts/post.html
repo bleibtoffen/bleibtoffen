@@ -2,6 +2,7 @@
 layout: default
 ---
 
+{% if page.date or page.author or page.translator or page.source %}
 <table class="table table-sm table-borderless table-responsive m-4">
     {% if page.date %}
     <tr>
@@ -43,6 +44,7 @@ layout: default
     </tr>
     {% endif %}
 </table>
+{% endif %}
 
 
 {{ content }}
