@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bleibt offen: Ein Kommunikationsinstrument für Gemeinden"
+title: „Bleibt offen“ – Ein Kommunikationsinstrument für Gemeinden
 source: https://blog.caresteouvert.fr/un-outil-de-communication-des-mairies/
 translator: Christine Karch
 ---
