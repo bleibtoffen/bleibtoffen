@@ -14,4 +14,4 @@ Immer mehr Gemeinden verwenden „Bleibt offen“ als Kommunikationsmittel bei d
 * **Geschäftsinhaber\*innen** können ihre Öffnungszeiten mit wenigen Klicks veröffentlichen und auf besondere Dienstleistungen wie **Lieferung** und **Außer-Haus-Verkauf** hinweisen.
 * **Bürger\*innen** können einfach offene Geschäfte in ihrer Umgebung identifizieren und gezielt ansteuern.
 
-Weitere Informationen: [„Bleibt offen“ – Ein Kommunikationsinstrument für Gemeinden]({% post_url 2020-04-11-kommunikationswerkzeug %})
+Weitere Informationen: [„Bleibt offen“ – Ein Kommunikationsmittel für Rathäuser]({% post_url 2020-04-11-kommunikationswerkzeug %})
