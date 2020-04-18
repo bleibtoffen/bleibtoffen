@@ -8,7 +8,7 @@ title: Blog
     <a class="list-group-item list-group-item-action" href="{{ post.url }}">
       <span class="badge badge-secondary badge-pill float-right">{{ post.date | date_to_string }}</span>
       <strong class="text-primary">{{ post.title }}</strong>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ post.excerpt | strip_html }}</p>
     </a> 
     {% endunless %}
   {% endfor %}
