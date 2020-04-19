@@ -1,0 +1,88 @@
+---
+layout: post
+title: Handelsketten
+---
+
+<p>
+  Wir verwenden <strong>Regeln</strong>, um den Öffnungsstatus von Geschäften anzuzeigen, deren spezifischer Öffnungsstatus nicht erfasst ist und die zu einer Handelskette gehören.
+  Diese Seite listet alle verwendeten Regeln auf. 
+</p>
+
+<p>
+  Die Liste kann auch in maschinenlesbarer Form als <a href="https://github.com/{{ site.github.repository_nwo }}/tree/master/docs/_data/ketten/rules.csv">CSV-Datei</a> angesehen und heruntergeladen werden.
+</p>
+
+
+{% assign country_names = site.data.ketten.countries %}
+{% assign category_names = site.data.ketten.categories %}
+{% assign opening_rules = site.data.ketten.opening_rules %}
+{% assign rules = site.data.ketten.rules | sort: 'country' | reverse %}
+
+{% assign countries = rules | group_by:"country" %}
+{% for country in countries %}
+
+<div class="mb-2">
+<h3 id="{{ country.name }}">{{ country_names[country.name] }}</h3>
+
+{% assign categories = country.items | sort: 'category', 'first' | group_by:"category" %}
+{% for category in categories %}
+
+<details>
+  <summary name="{{ country.name }}_{{ category.name }}">
+    {{ category_names[category.name] }}
+  </summary>
+
+  <table class="table table-hover table-responsive ml-4">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Name<br /><span class="font-weight-light small">Wikidata-ID</span></th>
+        <th>Status<br /><span class="font-weight-light small">Quelle / Öffnungszeiten</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% assign brands = category.items | sort: 'brand_name' %}
+      {% for item in brands %}
+      <tr>
+        <td
+        {% if item.opening_rule == 'open' or item.opening_rule == 'open_adapted' %}
+           class="table-success"
+        {% elsif item.opening_rule == 'partial' %}
+           class="table-warning"
+        {% elsif item.opening_rule == 'closed' %}
+           class="table-danger"
+        {% endif %}
+        ></td>
+        <td>
+          {{ item.brand_name }}
+          {% if item.wikidata_id %}
+          <br />
+          <a class="font-weight-light small" href="https://www.wikidata.org/wiki/{{ item.wikidata_id }}" target="_blank">{{ item.wikidata_id }}</a>
+          {% endif %}
+        </td>
+        <td>
+          {{ opening_rules[item.opening_rule] }}
+
+          {% if item.source_url or item.opening_hours_url %}
+          <div class="font-weight-light small">
+          {% if item.source_url %}
+          <a href="{{ item.source_url }}" noopener target="_blank">Quelle</a>
+          {% endif %}
+          {% if item.source_url and item.opening_hours_url %}
+          /
+          {% endif %}
+          {% if item.opening_hours_url %}
+          <a href="{{ item.opening_hours_url }}" noopener target="_blank">Öffnungszeiten</a>
+          {% endif %}
+          </div>
+          {% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</details>
+{% endfor %}
+
+</div>
+{% endfor %}
