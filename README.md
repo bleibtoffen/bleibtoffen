@@ -30,7 +30,7 @@ Die CSV-Datei [laender.csv](./laender.csv) enthält alle Informationen zu geöff
 
 ## Handelsketten
 
-Die CSV-Datei [ketten.csv](./ketten.csv) enthält Regeln für Orte, die zu einer Handelskette gehören. Dies sorgt für eine hilfreiche Anzeigung bei Orten der Handelskette, auch wenn noch keine `covid19`-Daten erfasst sind.
+Die CSV-Datei [rules.csv](./docs/_data/ketten/rules.csv) enthält Regeln für Orte, die zu einer Handelskette gehören. Dies sorgt für eine hilfreiche Anzeigung bei Orten der Handelskette, auch wenn noch keine `covid19`-Daten erfasst sind.
 
 Die Daten für Handelsketten in D-A-CH übertragen wir regelmäßig in die [rules.csv](https://github.com/PanierAvide/Covid_enseignes/blob/master/rules.csv) des offiziellen Repositorys ([PanierAvide/Covid_enseignes](https://github.com/PanierAvide/Covid_enseignes/)).
 
