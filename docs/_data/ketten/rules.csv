@@ -197,7 +197,7 @@ DE,books,Mayersche,Q1462383,closed,,,,https://twitter.com/Mayersche/status/12405
 DE,books,Osiander,Q1800686,partial,Mo-Sa 11:00-18:00,,Nur Abholung.,https://www.osiander.de/service/abholung_versand.cfm,
 DE,books,Pustet,Q1461605,closed,,,,https://www.pustet.de/shop/magazine/49701/filialen_oeffnungszeiten.html,
 DE,books,Rupprecht,Q89431762,closed,,,,https://www.rupprecht.de/shop/magazine/148419/aktuelle_situation.html,
-DE,books,Thalia,Q2408854,partial,Mo-Sa 10:00-13:00,,Nur Abholung in ausgewählten Filialen.,https://www.thalia.de/shop/information/show/,
+DE,books,Thalia,Q2408854,open_adapted,,,,https://www.thalia.de/shop/information/show/,https://www.thalia.de/shop/home/filialen/
 DE,books,Weltbild,Q883522,closed,,,,https://www.weltbild.de/service/filialen,
 DE,car_rental,Avis,Q791136,partial,,,,https://www.avis.de/avis-coronavirus-advice,https://www.avis.de/avis-coronavirus-advice
 DE,car_rental,Buchbinder,Q89432097,partial,,,,https://www.buchbinder.de/de/coronavirus/,https://www.buchbinder.de/de/stationen/
