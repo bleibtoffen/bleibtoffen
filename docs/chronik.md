@@ -5,6 +5,21 @@ title: Chronik
 
 Diese Seite dokumentiert nennenswerte Erweiterungen, Änderungen und Verbesserungen der Karte sowie Meilensteine des Projekts.
 
+## Freitag, 24. April
+
+* *Eigenschaften*: Zeitpunkt der letzten Änderung anzeigen
+
+## Mittwoch, 22. April
+
+* *Allgemein*: Meldung beim Ladevorgang hinzugefügt
+* *Änderungsmeldungen*: Details-Felder je Geschäftsart filtern
+* *Barrierefreiheit*: Modus für Rot-Grün-Schwäche hinzugefügt
+
+## Dienstag, 21. April
+
+* *Karte*: nur grüne Punkte bei geringer Zoomstufe
+* *Kategorien*: Icons aktualisiert
+
 ### Samstag, 18. April
 
 * *Kategorie „Dienstleistungen“*: **Kindertagesstätten** hinzugefügt
