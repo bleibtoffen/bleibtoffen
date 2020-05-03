@@ -5,15 +5,50 @@ title: Chronik
 
 Diese Seite dokumentiert nennenswerte Erweiterungen, Änderungen und Verbesserungen der Karte sowie Meilensteine des Projekts.
 
+*Stand: 03.05.2020*
+
+## Sonntag, 3. Mai
+
+* *Eigenschaften*: **Rollstuhlgerechtigkeit** anzeigen (wenn zutreffend)
+
+## Samstag, 2. Mai
+
+Projekt auf die *Demokratische Republik Kongo* erweitert.
+
+## Freitag, 1. Mai
+
+* *Kategorie „Geschäfte“*: Autohäuser, **Bekleidungsgeschäfte**, Friseure, Juweliere, Schönheitssalons und **Spielzeugläden** hinzugefügt
+
+## Mittwoch, 29. April
+
+* *Eigenschaften*: Stand der Verfügbarkeitsdaten anzeigen
+* *Kategorien*: „Drogerien“ nach „Geschäfte“ verschoben
+
+## Dienstag, 28. April
+
+Projekt auf das *Fürstentum Monaco* erweitert.
+
+**Handy-App** in Deutschland, Schweiz und Österreich erschienen.
+
+## Montag, 27. April
+
+* *Eigenschaften*: Abschnitte eingeführt
+* *Kategorien*: **Hotels** hinzugefügt
+
+## Sonntag, 26. April
+
+* *Eigenschaften*: **Verfügbarkeit von Desinfektionsmittel und Masken** anzeigen
+* *Kategorien*: Unterkategorien alphabetisch sortieren
+
 ## Freitag, 24. April
 
-* *Eigenschaften*: Zeitpunkt der letzten Änderung anzeigen
+* *Eigenschaften*: Stand der Daten anzeigen
 
 ## Mittwoch, 22. April
 
 * *Allgemein*: Meldung beim Ladevorgang hinzugefügt
 * *Änderungsmeldungen*: Details-Felder je Geschäftsart filtern
-* *Barrierefreiheit*: Modus für Rot-Grün-Schwäche hinzugefügt
+* *Barrierefreiheit*: **Modus für Rot-Grün-Schwäche** hinzugefügt
 
 ## Dienstag, 21. April
 
@@ -28,7 +63,7 @@ Diese Seite dokumentiert nennenswerte Erweiterungen, Änderungen und Verbesserun
 
 ### Freitag, 17. April
 
-Projekt auf Finnland erweitert.
+Projekt auf *Finnland* erweitert.
 
 * *Datenschutz*: [Do Not Track](https://de.wikipedia.org/wiki/Do_Not_Track) respektieren
 * *Karte*: **Marker für aktuellen Ort** anzeigen
