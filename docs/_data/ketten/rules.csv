@@ -12,8 +12,8 @@ AT,car_repair,ÖAMTC,Q306057,partial,,,,https://www.oeamtc.at/nothilfe/corona-no
 AT,chemist,Bipa,Q864933,open_adapted,,,,https://www.bipa.at/bipa/fuersieda.html,https://www.bipa.at/filialen
 AT,chemist,dm,Q266572,open_adapted,,,,https://www.dm-drogeriemarkt.at/wirgebenaufeinanderacht-139444,https://www.dm-drogeriemarkt.at/store
 AT,doityourself,Lagerhaus,Q10553211,open_adapted,,,,https://www.lagerhaus.at/sortiment/a/nahversorger-bleiben-geoffnet,https://www.lagerhaus.at/standortsuche
-AT,fast_food,McDonald's,Q38076,closed,,,,https://www.mcdonalds.at/restaurant-finder,https://www.mcdonalds.at/restaurant-finder
-AT,furniture,XXXLutz,Q70339467,closed,,,,,https://www.xxxlutz.at/
+AT,fast_food,McDonald's,Q38076,partial,,"{ ""access:covid19"": ""no"" }",Nur McDrive und McDelivery in ausgewählten Restaurants.,https://www.mcdonalds.at/restaurant-finder,https://www.mcdonalds.at/restaurant-finder
+AT,furniture,XXXLutz,Q70339467,open,,,,,https://www.xxxlutz.at/
 AT,fuel,Avanti,Q168238,open_adapted,,,,https://www.avanti.at/de-at/einfach-/fuer-sie-da,https://www.avanti.at/services/downloads/00/avanti.at/1522183760982/dload_Liste%20Standorte%20inklusive%20%C3%96ffnungszeiten_Avanti%20AT
 AT,fuel,BP,Q152057,open_adapted,,,BP car wash geschlossen.,https://www.bp.com/de_at/austria/home/produkte-und-services/wir-sind-fuer-sie-da.html,https://www.bp.com/de_at/austria/home/produkte-und-services/bp-in-ihrer-naehe.html
 AT,fuel,Eni,Q565594,open_adapted,,,,,http://travel.eni.com/iveportal/stations/stationfinder.do?locale=de_AT
